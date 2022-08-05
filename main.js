@@ -1,10 +1,30 @@
 const app = Vue.createApp({
     data() {
         return {
-            product: 'Socks',
-            description: 'Comfy green socks',
-            image: './assets/images/socks_green.jpg',
-            url: 'https://www.google.de'
+            cart: 0,
+            premium: true
+        }
+    },
+    methods: {
+        removeFromCart() {
+            if(this.cart > 0) {
+                this.cart--
+            }
+        }
+    },
+    computed: {
+        title() {
+            onSaleString = ''
+            if (this.variants[this.selectedVariant].onSale) {
+                onSaleString = ' is on sale!'
+            }
+            return this.brand + ' ' + this.product + onSaleString
+        },
+        image() {
+            return this.variants[this.selectedVariant].image
+        },
+        inStock() {
+            return this.variants[this.selectedVariant].quantity
         }
     }
 })
