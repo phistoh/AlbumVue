@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/x-icon" href="/resources/favicon.ico">
+    
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+    <link rel="stylesheet" href="/assets/styles.css">
 
     <!-- Vue framework loaded -->
     <script src="https://unpkg.com/vue@3"></script>
@@ -12,75 +12,26 @@
     <title>AlbumVue</title>
 </head>
 <body>
-    <div id="vueApp">
-        {{ message }}
+    <div id="app">
+        <div class="nav-bar"></div>
 
-        <br />
-
-        <input
-            v-model="newItem"
-            type="text" v-model="newItem"
-            aria-label="Type a new item to add to your list"
-            class="text-black p-2"
-            placeholder="Next item..."
-            @keydown.enter="addNewItemToList"
-        />
-
-        <button
-            class="py-2 px-4 border-r border-none bg-green-500"
-            :disabled="!newItem.length"
-            v-on:click="addNewItemToList">
-            Add item
-        </button>
-
-        <ul>
-            <li v-for="item in items" :key="item.id">
-                <p>{{ item.label }}</p>
-            </li>
-        </ul>
-          
+        <div class="product-display">
+            <div class="product-container">
+                <div class="product-image">
+                    <img :src="image">
+                </div>
+                <div class="product-info">
+                    <h1>{{ product }}</h1>
+                    <p>{{ description }}</p>
+                    <a :href="url">Google</a>
+                </div>
+            </div>
+        </div>
     </div>
 
+    <script src="./main.js"></script>
     <script>
-        Vue.createApp({
-            data() {
-                return {
-                    message: 'Hello world!',
-                    items: [
-                        {
-                            id: 1,
-                            label: 'Eins'
-                        },
-                        {
-                            id: 2,
-                            label: 'Zwei'
-                        },
-                        {
-                            id: 3,
-                            label: 'Drei'
-                        },
-                        {
-                            id: 4,
-                            label: 'Vier'
-                        }
-                    ],
-                    newItem: ''
-                }
-            },
-
-            methods: {
-                addNewItemToList() {
-                    if (!this.newItem.length) return
-
-                    this.items.push({
-                        id: Math.floor(Math.random() * (100 - 1) + 1),
-                        label: this.newItem
-                    })
-                    // set newItem back to an empty string, clearing the input for the next item
-                    this.newItem = ''
-                }
-            }
-        }).mount('#vueApp')
+        const mountedApp = app.mount('#app')
     </script>
 </body>
 </html>
