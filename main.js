@@ -1,15 +1,18 @@
 const app = Vue.createApp({
     data() {
         return {
-            cart: 0,
+            cart: [],
             premium: true
         }
     },
     methods: {
-        removeFromCart() {
-            if(this.cart > 0) {
-                this.cart--
+        removeFromCart(id) {
+            if(this.cart.length > 0) {
+                this.cart.pop()
             }
+        },
+        updateCart(id) {
+            this.cart.push(id)
         }
     },
     computed: {

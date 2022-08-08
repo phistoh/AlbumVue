@@ -45,6 +45,8 @@ app.component('product-display', {
                 <button class="button" @click="removeFromCart">Remove</button>
             </div>
         </div>
+        <review-list v-if="reviews.length" :reviews="reviews"></review-list>
+        <review-form @review-submitted="addReview"></review-form>
     </div>`,
     data() {
         return {
@@ -58,15 +60,22 @@ app.component('product-display', {
             sizes: ['s', 'l', 'xl'],
             product: 'Socks',
             brand: 'Vue Mastery',
-            selectedVariant: 0
+            selectedVariant: 0,
+            reviews: []
         }
     },
     methods: {
         addToCart() {
-            this.cart += 1
+            this.$emit('add-to-cart', this.variants[this.selectedVariant].id)
+        },
+        removeFromCart() {
+            this.$emit('remove-from-cart', this.variants[this.selectedVariant].id)
         },
         updateVariant(index) {
             this.selectedVariant = index
+        },
+        addReview(review) {
+            this.reviews.push(review)
         }
     },
     computed: {
