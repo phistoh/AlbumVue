@@ -1,23 +1,36 @@
 <template>
     <table>
-    <thead>
-        <th @click="sort('artist')">Artist<div class="arrow" v-if="currentSort == 'artist'" :class="sortAscending ? 'arrow-up' : 'arrow-down'"></div></th>
-        <th @click="sort('album')">Album<div class="arrow" v-if="currentSort == 'album'" :class="sortAscending ? 'arrow-up' : 'arrow-down'"></div></th>
-        <th @click="sort('mediatype')">Type<div class="arrow" v-if="currentSort == 'mediatype'" :class="sortAscending ? 'arrow-up' : 'arrow-down'"></div></th>
-    </thead>
-    <tbody>
-        <tr v-for="album in sortedAlbums" :key="album.id">
-            <td>{{album.artist}}</td>
-            <td>{{album.album}}</td>
-            <td>{{album.mediatype}}</td>
-        </tr>
-    </tbody>
+      <thead>
+          <th @click="sort('artist')">Artist<div class="arrow" v-if="currentSort == 'artist'" :class="sortAscending ? 'arrow-up' : 'arrow-down'"></div></th>
+          <th @click="sort('album')">Album<div class="arrow" v-if="currentSort == 'album'" :class="sortAscending ? 'arrow-up' : 'arrow-down'"></div></th>
+          <th @click="sort('mediatype')">Type<div class="arrow" v-if="currentSort == 'mediatype'" :class="sortAscending ? 'arrow-up' : 'arrow-down'"></div></th>
+      </thead>
+      <tbody>
+          <tr v-for="album in sortedAlbums" :key="album.id">
+              <td>{{album.artist}}</td>
+              <td>{{album.album}}</td>
+              <td v-if="album.mediatype == 'cd'">CD</td>
+              <td v-else-if="album.mediatype == 'tape'">TAPE</td>
+              <td v-else-if="album.mediatype == 'digital'">DIGI</td>
+              <td v-else-if="album.mediatype == 'vinyl'">VIN</td>
+              <td v-else>{{album.mediatype}}</td>
+          </tr>
+      </tbody>
     </table>
+
+    <div id="album-input-forms">
+      <AlbumInput @new-album-submitted="addAlbum"/>
+    </div>
 </template>
 
 <script>
+import AlbumInput from './AlbumInput.vue'
+
 export default {
   name: 'AlbumList',
+  components: {
+      AlbumInput
+    },
   data() {
     return {
       currentSort: 'artist',
@@ -83,6 +96,9 @@ export default {
         this.sortAscending = !this.sortAscending;
       }
       this.currentSort = sortKey;
+    },
+    addAlbum(newAlbum) {
+      this.albums.push(newAlbum)
     }
   },
   computed: {
@@ -118,6 +134,8 @@ export default {
     background: var(--info);
     padding: 6px 0px 6px 6px;
     cursor: pointer;
+    position: sticky;
+    top: 0;
   }
 
   th:hover {
@@ -136,5 +154,10 @@ export default {
 
   tbody tr:hover {
     background-color: var(--highlight);
+  }
+
+  #album-input-forms {
+    width: 100%;
+    margin: auto;
   }
 </style>
