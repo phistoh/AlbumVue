@@ -3,20 +3,24 @@
       <thead>
           <th @click="sort('artist')">Artist<div class="arrow" v-if="currentSort == 'artist'" :class="sortAscending ? 'arrow-up' : 'arrow-down'"></div></th>
           <th @click="sort('album')">Album<div class="arrow" v-if="currentSort == 'album'" :class="sortAscending ? 'arrow-up' : 'arrow-down'"></div></th>
-          <th @click="sort('mediatype')">Type<div class="arrow" v-if="currentSort == 'mediatype'" :class="sortAscending ? 'arrow-up' : 'arrow-down'"></div></th>
+          <th class="th-small" @click="sort('mediatype')">Type<div class="arrow" v-if="currentSort == 'mediatype'" :class="sortAscending ? 'arrow-up' : 'arrow-down'"></div></th>
       </thead>
       <tbody>
           <tr v-for="album in sortedAlbums" :key="album.id">
               <td>{{album.artist}}</td>
               <td>{{album.album}}</td>
-              <td v-if="album.mediatype == 'cd'">CD</td>
-              <td v-else-if="album.mediatype == 'tape'">TAPE</td>
-              <td v-else-if="album.mediatype == 'digital'">DIGI</td>
-              <td v-else-if="album.mediatype == 'vinyl'">VIN</td>
-              <td v-else>{{album.mediatype}}</td>
+              <td class="td-center" v-if="album.mediatype.toLowerCase() == 'cd'">CD</td>
+              <td class="td-center" v-else-if="album.mediatype.toLowerCase() == 'tape'">TAPE</td>
+              <td class="td-center" v-else-if="album.mediatype.toLowerCase() == 'digital'">DIGI</td>
+              <td class="td-center" v-else-if="album.mediatype.toLowerCase() == 'vinyl'">VIN</td>
+              <td class="td-center" v-else>{{album.mediatype}}</td>
           </tr>
       </tbody>
     </table>
+
+    <div>
+      <AlbumStats :cd-amount=numCDs :digital-amount=numDigital :vinyl-amount=numVinyl :tape-amount=numTape />
+    </div>
 
     <div id="album-input-forms">
       <AlbumInput @new-album-submitted="addAlbum"/>
@@ -25,11 +29,13 @@
 
 <script>
 import AlbumInput from './AlbumInput.vue'
+import AlbumStats from './AlbumStats.vue'
 
 export default {
   name: 'AlbumList',
   components: {
-      AlbumInput
+      AlbumInput,
+      AlbumStats
     },
   data() {
     return {
@@ -103,7 +109,7 @@ export default {
   },
   computed: {
     sortedAlbums:function() {
-      // ... tyo copy the array before sorting
+      // ... to copy the array before sorting
       return [...this.albums].sort((a, b) => {
         let modifier = 1;
         if(!this.sortAscending) modifier = -1;
@@ -111,6 +117,18 @@ export default {
         if(a[this.currentSort] > b[this.currentSort]) return 1 * modifier;
         return 0;
       });
+    },
+    numCDs:function() {
+      return this.albums.filter(x => x.mediatype == 'cd').length
+    },
+    numDigital:function() {
+      return this.albums.filter(x => x.mediatype == 'digital').length
+    },
+    numVinyl:function() {
+      return this.albums.filter(x => x.mediatype == 'vinyl').length
+    },
+    numTape:function() {
+      return this.albums.filter(x => x.mediatype == 'tape').length
     }
   }
 }
@@ -118,7 +136,7 @@ export default {
 
 <style>
   table {
-    height: 80%;
+    height: 75%;
     width: 100%;
     margin-top: 38px;
     display: inline-block;
@@ -127,15 +145,17 @@ export default {
   }
 
   th {
-    width: 400px;
-    margin-top: -38px;
-    margin-left: -2px;
-    text-align: left;
+    width: 550px;
+    text-align: center;
     background: var(--info);
-    padding: 6px 0px 6px 6px;
+    padding: 6px 0px 6px 0px;
     cursor: pointer;
     position: sticky;
     top: 0;
+  }
+
+  .th-small {
+    width: 100px;
   }
 
   th:hover {
@@ -150,6 +170,10 @@ export default {
     white-space: nowrap;
     overflow: hidden;
     cursor: default;
+  }
+
+  .td-center {
+    text-align: center;
   }
 
   tbody tr:hover {

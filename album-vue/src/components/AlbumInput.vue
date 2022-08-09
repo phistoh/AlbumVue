@@ -15,6 +15,9 @@
 			
 			<input type="radio" id="media-type-vinyl" name="media-type" value="Vinyl" v-model="mediatype">
 			<label for="media-type-vinyl">Vinyl</label>
+
+            <input type="radio" id="media-type-tape" name="media-type" value="Tape" v-model="mediatype">
+			<label for="media-type-tape">Tape</label>
 		</div>
 		<button id="save-button">Speichern</button>
 	</div>
@@ -43,7 +46,7 @@ export default {
         let newAlbum = {
             artist: this.artist,
             album: this.album,
-            mediatype: this.mediatype
+            mediatype: this.mediatype.toLowerCase()
         }
 
         this.$emit('new-album-submitted', newAlbum)
