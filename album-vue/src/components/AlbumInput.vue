@@ -19,7 +19,7 @@
             <input type="radio" id="media-type-tape" name="media-type" value="Tape" v-model="mediatype">
 			<label for="media-type-tape">Tape</label>
 		</div>
-		<button id="save-button">Speichern</button>
+		<button id="save-button" :disabled="this.artist === '' || this.album === '' || this.mediatype === ''">Speichern</button>
 	</div>
     </form>
 </template>
@@ -64,24 +64,30 @@ export default {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        margin: 20px;
+        margin-top: 12px;
     }
 
     .radio-form {
         display: flex;
         justify-content: center;
         align-items: center;
+        padding: 8px;
+        border: 1pt solid var(--divider);
+        backdrop-filter: var(--backdrop-filter);
     }
 
     input[type=text] {
-    width: 49.5%;
-    padding: 8px;
-    box-sizing: border-box;
-    border: 2px solid var(--divider);
-    outline: none;
+        width: 49.8%;
+        box-sizing: border-box;
+        outline: none;
+        background: none;
+        color: var(--normal);
+        padding: 8px;
+        border: 1pt solid var(--divider);
+        backdrop-filter: var(--backdrop-filter);
     }
 
     input[type=text]:focus {
-        border: 2px solid var(--highlight);
+        border: 1px solid var(--highlight);
     }
 </style>

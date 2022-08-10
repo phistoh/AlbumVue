@@ -142,10 +142,13 @@ export default {
     display: inline-block;
     overflow: auto;
     border-collapse: collapse;
+    border: 1pt solid var(--divider);
+    backdrop-filter: var(--backdrop-filter);
   }
 
   th {
-    width: 550px;
+    width: 40vw;
+    min-width: 320px;
     text-align: center;
     background: var(--info);
     padding: 6px 0px 6px 0px;
@@ -155,7 +158,8 @@ export default {
   }
 
   .th-small {
-    width: 100px;
+    width: 20vw;
+    min-width: 160px;
   }
 
   th:hover {

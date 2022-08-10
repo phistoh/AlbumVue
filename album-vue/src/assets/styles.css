@@ -1,11 +1,14 @@
-/* https://coolors.co/1e212b-7bc559-ffc800-ff9747-ffffff */
+/* https://coolors.co/1e212b-7bc559-ffc800-ff9747-f8e9e9 */
 
 :root {
 	/* CSS */
-	--divider: hsla(226, 18%, 14%, 1);
-	--info: hsla(101, 48%, 56%, 1);
-	--highlight: hsla(47, 100%, 50%, 1);
-	--warning: hsla(26, 100%, 64%, 1);
+	--divider: #E7CEE3;
+	--info: #E4B4C2;
+	--highlight: #DDFDFE;
+	--warning: #FFB8D1;
+	--background: #333548;
+	--normal: #E0E1E9;
+	--backdrop-filter: blur(16px) saturate(50%) brightness(60%);
 }
 
 .arrow-down {
@@ -25,10 +28,21 @@
 	background-position-y: bottom;
   }
 
+html {
+	height: 100%;
+}
+
 body {
-	color: var(--divider);
+	color: var(--normal);
 	font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
 	overflow: hidden;
+	background-color: var(--background);
+	background-image: url(./bg-wow-1.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
 }
 
 h1 {

@@ -24,7 +24,10 @@ export default {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        margin: 20px;
+        margin-top: 10px;
         cursor: default;
+        padding: 8px;
+        border: 1pt solid var(--divider);
+        backdrop-filter: var(--backdrop-filter);
     }
 </style>

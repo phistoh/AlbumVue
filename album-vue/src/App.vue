@@ -22,9 +22,9 @@
 
 <style>
   #album-list-table-container {
-    margin-top: 30px;
-    height: 1000px;
-    width: 1200px;
+    height: 90vh;
+    width: 80vw;
+    min-width: 800px;
     overflow: auto;
     margin: auto;
   }
