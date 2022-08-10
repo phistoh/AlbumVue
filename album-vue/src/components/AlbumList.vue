@@ -1,4 +1,8 @@
 <template>
+    <div>
+      <AlbumStats :cd-amount=numCDs :digital-amount=numDigital :vinyl-amount=numVinyl :tape-amount=numTape @filter-input-changed="updateFilter" />
+    </div>
+
     <table>
       <thead>
           <th @click="sort('artist')">Artist<div class="arrow" v-if="currentSort == 'artist'" :class="sortAscending ? 'arrow-up' : 'arrow-down'"></div></th>
@@ -6,21 +10,17 @@
           <th class="th-small" @click="sort('mediatype')">Type<div class="arrow" v-if="currentSort == 'mediatype'" :class="sortAscending ? 'arrow-up' : 'arrow-down'"></div></th>
       </thead>
       <tbody>
-          <tr v-for="album in sortedAlbums" :key="album.id">
+          <tr v-for="(album, i) in sortedAlbums" :key="i" @click="selectRow(i)" :class="[selectedRow === i ? 'selected' : '']">
               <td>{{album.artist}}</td>
               <td>{{album.album}}</td>
-              <td class="td-center" v-if="album.mediatype.toLowerCase() == 'cd'">CD</td>
-              <td class="td-center" v-else-if="album.mediatype.toLowerCase() == 'tape'">TAPE</td>
-              <td class="td-center" v-else-if="album.mediatype.toLowerCase() == 'digital'">DIGI</td>
-              <td class="td-center" v-else-if="album.mediatype.toLowerCase() == 'vinyl'">VIN</td>
+              <td class="td-center" v-if="album.mediatype.toLowerCase() == 'cd'">💿</td>
+              <td class="td-center" v-else-if="album.mediatype.toLowerCase() == 'tape'">📼</td>
+              <td class="td-center" v-else-if="album.mediatype.toLowerCase() == 'digital'">📁</td>
+              <td class="td-center" v-else-if="album.mediatype.toLowerCase() == 'vinyl'">⚫️</td>
               <td class="td-center" v-else>{{album.mediatype}}</td>
           </tr>
       </tbody>
     </table>
-
-    <div>
-      <AlbumStats :cd-amount=numCDs :digital-amount=numDigital :vinyl-amount=numVinyl :tape-amount=numTape />
-    </div>
 
     <div id="album-input-forms">
       <AlbumInput @new-album-submitted="addAlbum"/>
@@ -41,6 +41,13 @@ export default {
     return {
       currentSort: 'artist',
       sortAscending: true,
+      selectedRow: null,
+      currentSelection: {
+        artist: '',
+        album: '',
+        mediatype: ''
+      },
+      filter: '',
       // Just for testing...
       albums: [
             { artist: "A Forest Of Stars", album: "Grave Mounds and Grave Mistakes", mediatype: "cd" },
@@ -105,30 +112,41 @@ export default {
     },
     addAlbum(newAlbum) {
       this.albums.push(newAlbum)
+    },
+    selectRow(i){
+      if(i == this.selectedRow) {
+        this.selectedRow = null
+        return
+      }
+      this.selectedRow = i;
+      this.currentSelection = this.sortedAlbums[i]
+    },
+    updateFilter(filter) {
+      this.filter = filter;
     }
   },
   computed: {
     sortedAlbums:function() {
-      // ... to copy the array before sorting
+      // [...] to copy the array before sorting
       return [...this.albums].sort((a, b) => {
         let modifier = 1;
         if(!this.sortAscending) modifier = -1;
         if(a[this.currentSort] < b[this.currentSort]) return -1 * modifier;
         if(a[this.currentSort] > b[this.currentSort]) return 1 * modifier;
         return 0;
-      });
+      }).filter(x => x['artist'].toLowerCase().includes(this.filter.toLowerCase()) || x['album'].toLowerCase().includes(this.filter.toLowerCase()));
     },
     numCDs:function() {
-      return this.albums.filter(x => x.mediatype == 'cd').length
+      return this.albums.filter(x => x['artist'].toLowerCase().includes(this.filter.toLowerCase()) || x['album'].toLowerCase().includes(this.filter.toLowerCase())).filter(x => x.mediatype == 'cd').length
     },
     numDigital:function() {
-      return this.albums.filter(x => x.mediatype == 'digital').length
+      return this.albums.filter(x => x['artist'].toLowerCase().includes(this.filter.toLowerCase()) || x['album'].toLowerCase().includes(this.filter.toLowerCase())).filter(x => x.mediatype == 'digital').length
     },
     numVinyl:function() {
-      return this.albums.filter(x => x.mediatype == 'vinyl').length
+      return this.albums.filter(x => x['artist'].toLowerCase().includes(this.filter.toLowerCase()) || x['album'].toLowerCase().includes(this.filter.toLowerCase())).filter(x => x.mediatype == 'vinyl').length
     },
     numTape:function() {
-      return this.albums.filter(x => x.mediatype == 'tape').length
+      return this.albums.filter(x => x['artist'].toLowerCase().includes(this.filter.toLowerCase()) || x['album'].toLowerCase().includes(this.filter.toLowerCase())).filter(x => x.mediatype == 'tape').length
     }
   }
 }
@@ -138,7 +156,8 @@ export default {
   table {
     height: 75%;
     width: 100%;
-    margin-top: 38px;
+    /* margin-top: 10px;
+    margin-bottom: 8px; */
     display: inline-block;
     overflow: auto;
     border-collapse: collapse;
@@ -182,10 +201,16 @@ export default {
 
   tbody tr:hover {
     background-color: var(--highlight);
+    color: var(--background);
   }
 
   #album-input-forms {
     width: 100%;
     margin: auto;
+  }
+
+  .selected {
+    background-color: var(--info);
+    color: var(--background);
   }
 </style>

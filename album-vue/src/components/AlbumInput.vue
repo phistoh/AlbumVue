@@ -3,10 +3,8 @@
     <div class="flex-horizontal">
         <input type="text" placeholder="Artist" id="artist-input" name="artist-string" v-model="artist">
 		<input type="text" placeholder="Album" id="album-input" name="album-string" v-model="album">
-    </div>
 
-    <div class="flex-horizontal">
-		<div class="radio-form">
+        <div class="radio-form">
 			<input type="radio" id="media-type-cd" name="media-type" value="CD" v-model="mediatype" checked>
 			<label for="media-type-cd">CD</label>
 			
@@ -19,6 +17,9 @@
             <input type="radio" id="media-type-tape" name="media-type" value="Tape" v-model="mediatype">
 			<label for="media-type-tape">Tape</label>
 		</div>
+    </div>
+
+    <div class="flex-horizontal">
 		<button id="save-button" :disabled="this.artist === '' || this.album === '' || this.mediatype === ''">Speichern</button>
 	</div>
     </form>
@@ -63,22 +64,27 @@ export default {
     .flex-horizontal {
         display: flex;
         justify-content: space-between;
-        align-items: center;
-        margin-top: 12px;
+        align-items: flex-end;
+        margin-top: 8px;
+        margin-bottom: 8px;
     }
 
     .radio-form {
         display: flex;
         justify-content: center;
         align-items: center;
-        padding: 8px;
+        padding: 0 8px;
+        height: 32px;
+        width: 20vw;
+        min-width: 220px;
         border: 1pt solid var(--divider);
         backdrop-filter: var(--backdrop-filter);
     }
 
     input[type=text] {
-        width: 49.8%;
-        box-sizing: border-box;
+        width: 40vw;
+        min-width: 320px;
+        margin-right: 4px;
         outline: none;
         background: none;
         color: var(--normal);
