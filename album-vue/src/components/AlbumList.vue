@@ -3,14 +3,15 @@
       <AlbumStats :cd-amount=numCDs :digital-amount=numDigital :vinyl-amount=numVinyl :tape-amount=numTape @filter-input-changed="updateFilter" />
     </div>
 
-    <table>
+    <table id="album-list-table">
       <thead>
           <th @click="sort('artist')">Artist<div class="arrow" v-if="currentSort == 'artist'" :class="sortAscending ? 'arrow-up' : 'arrow-down'"></div></th>
           <th @click="sort('album')">Album<div class="arrow" v-if="currentSort == 'album'" :class="sortAscending ? 'arrow-up' : 'arrow-down'"></div></th>
           <th class="th-small" @click="sort('mediatype')">Type<div class="arrow" v-if="currentSort == 'mediatype'" :class="sortAscending ? 'arrow-up' : 'arrow-down'"></div></th>
       </thead>
       <tbody>
-          <tr v-for="(album, i) in sortedAlbums" :key="i" @click="selectRow(i)" :class="[selectedRow === i ? 'selected' : '']">
+          <tr v-for="(album, i) in sortedAlbums" :key="i" >
+          <!-- <tr v-for="(album, i) in sortedAlbums" :key="i" @click="selectRow(i)" :class="this.selectedRow === i ? 'selected' : ''"> -->
               <td>{{album.artist}}</td>
               <td>{{album.album}}</td>
               <td class="td-center" v-if="album.mediatype.toLowerCase() == 'cd'">💿</td>
@@ -104,6 +105,7 @@ export default {
   },
   methods: {
     sort:function(sortKey) {
+      this.selectedRow = null
       // reverse sorting order if already sorted by sortKey
       if(sortKey === this.currentSort) {
         this.sortAscending = !this.sortAscending;
@@ -126,7 +128,7 @@ export default {
     }
   },
   computed: {
-    sortedAlbums:function() {
+    sortedAlbums:function() {      
       // [...] to copy the array before sorting
       return [...this.albums].sort((a, b) => {
         let modifier = 1;
@@ -211,6 +213,5 @@ export default {
 
   .selected {
     background-color: var(--info);
-    color: var(--background);
   }
 </style>

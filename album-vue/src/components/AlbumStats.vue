@@ -13,12 +13,17 @@
 
 <script>
 export default {
+  data() {
+    return {
+      value: ''
+    }
+  },
   name: 'AlbumStats',
   props: {
     cdAmount: Number,
     digitalAmount: Number,
     vinylAmount: Number,
-    tapeAmount: Number
+    tapeAmount: Number,
   },
   methods: {
     updateFilter:function() {
