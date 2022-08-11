@@ -100,11 +100,12 @@ export default {
             { artist: "Drudkh", album: "Microcosmos", mediatype: "cd" },
             { artist: "Drudkh", album: "They Often See Dreams About the Spring", mediatype: "cd" },
             { artist: "DUO", album: "Double Vision", mediatype: "cd" }
-        ]
+      ]
     }
   },
   methods: {
     sort:function(sortKey) {
+      this.albums = this.sortedAlbums
       this.selectedRow = null
       // reverse sorting order if already sorted by sortKey
       if(sortKey === this.currentSort) {
