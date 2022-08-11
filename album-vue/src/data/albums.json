@@ -1,0 +1,6167 @@
+[
+    {
+        "album": "Durch den Nebel der Finsternis",
+        "artist": "Bergthron",
+        "mediatype": "cassette"
+    },
+    {
+        "album": "Post Human: Survival Horror",
+        "artist": "Bring Me the Horizon",
+        "mediatype": "cassette"
+    },
+    {
+        "album": "Reprise",
+        "artist": "Moby",
+        "mediatype": "cassette"
+    },
+    {
+        "album": "Die Götter der Urväter",
+        "artist": "Mystic Circle",
+        "mediatype": "cassette"
+    },
+    {
+        "album": "Von Kriegern und Helden",
+        "artist": "Mystic Circle",
+        "mediatype": "cassette"
+    },
+    {
+        "album": "Herzbruch",
+        "artist": "Skinny Finster",
+        "mediatype": "cassette"
+    },
+    {
+        "album": "The Soundtrack",
+        "artist": "Afro Samurai Resurrection",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Stygian",
+        "artist": "Atramentus",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Guardians",
+        "artist": "August Burns Red",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Hammerheart",
+        "artist": "Bathory",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Nordland I",
+        "artist": "Bathory",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Nordland II",
+        "artist": "Bathory",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Necrodaemon Terrorsathan",
+        "artist": "Belphegor",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Divinity: Original Sin 2 - Original Soundtrack",
+        "artist": "Borislav Slavov",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Det Som Engang Var",
+        "artist": "Burzum",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Bitte Ziehen Sie Durch",
+        "artist": "Deichkind",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Nur Noch Fünf Minuten Mutti",
+        "artist": "Deichkind",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Reader of the Runes",
+        "artist": "Elvenking",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "The Dark Ride",
+        "artist": "Helloween",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Revenant",
+        "artist": "Inferi",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Ghost in the Shell Soundtrack",
+        "artist": "Kenji Kawai",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Dag",
+        "artist": "Knoest",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Autobahn",
+        "artist": "Kraftwerk",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Wolfsweihe",
+        "artist": "Mannshoch",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "We Are Chaos",
+        "artist": "Marilyn Manson",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "1982",
+        "artist": "Marteria & Casper",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Live in Leipzig",
+        "artist": "Mayhem",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Blut & Krieg",
+        "artist": "Moonblood",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Sob a lua do bode",
+        "artist": "Moonblood",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Taste Our German Steel",
+        "artist": "Moonblood",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Sorceress",
+        "artist": "Opeth",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": " Best-Of",
+        "artist": "Pleymo",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Infinity",
+        "artist": "Scarlxrd",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Scorn Defeat",
+        "artist": "Sigh",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Taake",
+        "artist": "Taake",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Exuvia",
+        "artist": "The Ruins of Beverast",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Somewhere Sadness Wanders / Schnee IV",
+        "artist": "Various Artists",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Djinn",
+        "artist": "Uada",
+        "mediatype": "vinyl"
+    },
+    {
+        "album": "Spukgeschichten - Anciennes Légendes Des Alpes",
+        "artist": "Various Artists",
+        "mediatype": "digital"
+    },
+    {
+        "album": "30 Years Later - An AKIRA Tribute",
+        "artist": "Synthspiria",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Gods Of War - At War",
+        "artist": "Macabre Omen",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Rhapsodia - The Mod Soundtrack",
+        "artist": "Laurent Lozano",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Nocturnal One",
+        "artist": "Drudkh - Нічний",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Stardew Valley - Original Soundtrack",
+        "artist": "ConcernedApe",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Strange Worlds - Elder Scrolls Inspired Battle Music",
+        "artist": "Ares",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Rebellion - Edens Asche",
+        "artist": "AEBA",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Sin-Eater",
+        "artist": "(ASJJ)",
+        "mediatype": "digital"
+    },
+    {
+        "album": "TattleTales",
+        "artist": "6ix9ine",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Denen die wir waren",
+        "artist": "8kids",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Back to Reality",
+        "artist": "Abstract Void",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Christmas Microtonal Lo-Fi Hip Hop EP",
+        "artist": "Adam Neely",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Flammenmanifest",
+        "artist": "AEBA",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Im Schattenreich",
+        "artist": "AEBA",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Rising",
+        "artist": "AEBA",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Lunar Lexicon",
+        "artist": "Aindulmedir",
+        "mediatype": "digital"
+    },
+    {
+        "album": "ＬＯＦＩ　 ＣＨＲＩＳＴＭＡＳ 　 ❄️❄️❄️",
+        "artist": "Akira the Don",
+        "mediatype": "digital"
+    },
+    {
+        "album": "LOFI CHRISTMAS IV",
+        "artist": "Akira the Don",
+        "mediatype": "digital"
+    },
+    {
+        "album": "حين يظهر الغسق",
+        "artist": "Al-Namrood",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Aquaria Soundtrack",
+        "artist": "Alec Holowka",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Lost Constallation",
+        "artist": "Alec Holowka",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Night in the Woods Preview",
+        "artist": "Alec Holowka",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Night in the Woods Vol. 1: At the End of Everything",
+        "artist": "Alec Holowka",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Night in the Woods Vol. 2: Hold onto Anything",
+        "artist": "Alec Holowka",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Night in the Woods Vol. 3: Demontower",
+        "artist": "Alec Holowka",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Offspring Fling!",
+        "artist": "Alec Holowka",
+        "mediatype": "digital"
+    },
+    {
+        "album": "TowerFall Ascension",
+        "artist": "Alec Holowka",
+        "mediatype": "digital"
+    },
+    {
+        "album": "TowerFall Dark World",
+        "artist": "Alec Holowka",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Conspiravision: Deus Ex Remixed",
+        "artist": "Alexander Brandon & Michiel van den Bos",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Goldfieber",
+        "artist": "Alligatoah",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Schlaftabletten, Rotwein 4",
+        "artist": "Alligatoah",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Dream Elegy",
+        "artist": "Almach",
+        "mediatype": "digital"
+    },
+    {
+        "album": "A Christmas Album",
+        "artist": "Amerigo Gazaway",
+        "mediatype": "digital"
+    },
+    {
+        "album": "A Christmas Album (Holiday Remixes)",
+        "artist": "Amerigo Gazaway",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Restoration",
+        "artist": "Amiensus",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Twilight of the Thunder God",
+        "artist": "Amon Amarth",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Versus the World",
+        "artist": "Amon Amarth",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Endarkenment",
+        "artist": "Anaal Natrakh",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Requiem of a World Lost",
+        "artist": "Ancient Tundra",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Aperire",
+        "artist": "Aperire",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Into the Nothingness of Cold and Hopelessness",
+        "artist": "Aphasiac",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Mrã Waze",
+        "artist": "Arandu Arakuaa",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Aspera Hiems Symphony",
+        "artist": "Arcturus",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Alles Was Bleibt ist Asche",
+        "artist": "Asche",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Yūgen",
+        "artist": "Ashbringer",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Slaughter of the Soul",
+        "artist": "At the Gates",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Unholy Union",
+        "artist": "Athanatos",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Senču balsis / Voices of the Ancestors",
+        "artist": "Auļi",
+        "mediatype": "digital"
+    },
+    {
+        "album": "اسفندیار",
+        "artist": "اکوان",
+        "mediatype": "digital"
+    },
+    {
+        "album": "わたしと私だったもの",
+        "artist": "明日の叙景",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Lembrança",
+        "artist": "Barda",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Into The Weird Side",
+        "artist": "Bawdy Festival",
+        "mediatype": "digital"
+    },
+    {
+        "album": "If All You Have Known Is Winter",
+        "artist": "Begotten",
+        "mediatype": "digital"
+    },
+    {
+        "album": "...From the Pagan Vastlands",
+        "artist": "Behemoth",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Blackwater Magi",
+        "artist": "Beni-Hana",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Dictius te Necare",
+        "artist": "Bethlehem",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Atavismus des Glaubens",
+        "artist": "Bilskirnir",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Debut",
+        "artist": "Björk",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Lost Light Of The North",
+        "artist": "Black Candle",
+        "mediatype": "digital"
+    },
+    {
+        "album": "哀郢",
+        "artist": "Black Kirin",
+        "mediatype": "digital"
+    },
+    {
+        "album": "秦淮",
+        "artist": "Black Kirin",
+        "mediatype": "digital"
+    },
+    {
+        "album": "金陵祭",
+        "artist": "Black Kirin",
+        "mediatype": "digital"
+    },
+    {
+        "album": "千年",
+        "artist": "Black Kirin",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Hidden History of the Human Race",
+        "artist": "Blood Incantation",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Demons",
+        "artist": "Bloodshot Dawn",
+        "mediatype": "digital"
+    },
+    {
+        "album": "A Fragile Riddle Crypting Clues",
+        "artist": "Bloodway",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Hallucinogen",
+        "artist": "Blut Aus Nord",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Ultima Thulée",
+        "artist": "Blut aus Nord",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Dead on Revival",
+        "artist": "bOb e.NiTe",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Full Metal Racket",
+        "artist": "Bong-Ra",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Ecosystem",
+        "artist": "Botanist",
+        "mediatype": "digital"
+    },
+    {
+        "album": "There is a Hell Believe Me I've Seen It. There is a Heaven Let's Keep it a Secret",
+        "artist": "Bring Me The Horizon",
+        "mediatype": "digital"
+    },
+    {
+        "album": "A Fistful of Poison",
+        "artist": "Bushwhacker",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Year Of The Dragon",
+        "artist": "Busta Rhymes",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Wir korrigieren 4 Tonnen Stahl mit einer Hand (Freedownload-Edition)",
+        "artist": "Cap Kendricks & Edgar Wasser",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Violence Unimagined",
+        "artist": "Cannibal Corpse",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Cherlene",
+        "artist": "Cherlene",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Dicey Dungeons Original Soundtrack",
+        "artist": "Chipzel",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Super Hexagon EP",
+        "artist": "Chipzel",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Fate",
+        "artist": "CIEŃ",
+        "mediatype": "digital"
+    },
+    {
+        "album": "COAST",
+        "artist": "COAST",
+        "mediatype": "digital"
+    },
+    {
+        "album": "In the Darkness I Shall Dwell",
+        "artist": "Coffinshade",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Nostalgia",
+        "artist": "Corelia",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Signs of Spiritual Delusion",
+        "artist": "Cross Bringer",
+        "mediatype": "digital"
+    },
+    {
+        "album": "A Lofi Christmas",
+        "artist": "Cruel Buddhist",
+        "mediatype": "digital"
+    },
+    {
+        "album": "BotB Collection",
+        "artist": "Cryptovolans",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Tales of Human Being",
+        "artist": "Cuckoo's Nest",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Čtvrtá Symfonie Ohně",
+        "artist": "Cult of Fire",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Kali Fire Puja",
+        "artist": "Cult of Fire",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Life, Sex & Death",
+        "artist": "Cult of Fire",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Live from the Underground",
+        "artist": "Cult of Fire",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Moksha",
+        "artist": "Cult of Fire",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Nirvana",
+        "artist": "Cult of Fire",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Triumvirát",
+        "artist": "Cult of Fire",
+        "mediatype": "digital"
+    },
+    {
+        "album": "मृत्यु का तापसी अनुध्यान",
+        "artist": "Cult of Fire",
+        "mediatype": "digital"
+    },
+    {
+        "album": "House of the Cosmic Waters",
+        "artist": "Cyaxares",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Homework",
+        "artist": "Daft Punk",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Into The Abyss",
+        "artist": "Dance With The Dead",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Near Dark",
+        "artist": "Dance With The Dead",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Send The Signal",
+        "artist": "Dance With The Dead",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Shape",
+        "artist": "Dance With The Dead",
+        "mediatype": "digital"
+    },
+    {
+        "album": "B-Sides: Volume 1",
+        "artist": "Dance with the Dead",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Blackout",
+        "artist": "Dance with the Dead",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Loved to Death",
+        "artist": "Dance with the Dead",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Out of Body",
+        "artist": "Dance with the Dead",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Eternal Hails......",
+        "artist": "Darkthrone",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Frostland Tapes",
+        "artist": "Darkthrone",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Plaguewielder",
+        "artist": "Darkthrone",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Soulside Journey",
+        "artist": "Darkthrone",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Angel Of Carnage Unleashed",
+        "artist": "Darkwoods My Bethrothed",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Symbolic",
+        "artist": "Death",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The History Of Death & Burial Rituals part I",
+        "artist": "Death Karma",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The History Of Death & Burial Rituals part II",
+        "artist": "Death Karma",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Grave Image",
+        "artist": "Deathwhite",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Lake of Solace",
+        "artist": "Deep Mountains",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Perforate The Horizon",
+        "artist": "Deep Mountains",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Nespithe",
+        "artist": "Demilich",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Antichrist Rise to Power",
+        "artist": "Departure Chandelier",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Sinis",
+        "artist": "Der Rote Milan",
+        "mediatype": "digital"
+    },
+    {
+        "album": "遺。白",
+        "artist": "Dismal",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Indestructible",
+        "artist": "Disturbed",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Ten Thousand Fists",
+        "artist": "Disturbed",
+        "mediatype": "digital"
+    },
+    {
+        "album": "White Materia: Final Fantasy VII Mashups",
+        "artist": "DJ Nerd42",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Alchimie 2008",
+        "artist": "DMS",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Alles egal",
+        "artist": "DMS",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Winter Love",
+        "artist": "Dr. Dundiff",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Cold Air",
+        "artist": "drowse",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Blood in Our Wells",
+        "artist": "Drudkh",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Eastern Frontier in Flames",
+        "artist": "Drudkh",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Estrangement",
+        "artist": "Drudkh",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Few Lines in Archaic Ukrainian",
+        "artist": "Drudkh",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Forgotten Legends",
+        "artist": "Drudkh",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Songs of Grief and Solitude",
+        "artist": "Drudkh",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Swan Road",
+        "artist": "Drudkh",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Night Colour",
+        "artist": "DWNS†▲†Ξ",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Rigel Axiom",
+        "artist": "Dynatron",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Sachem's Tale",
+        "artist": "Dzö-nga",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Unearthed",
+        "artist": "E.S. Posthumus",
+        "mediatype": "digital"
+    },
+    {
+        "album": "My Bones Shall Rest Upon The Mountain",
+        "artist": "Earthshine",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Tragikomödien aus dem Mordarchiv",
+        "artist": "Eden Weint Im Grab",
+        "mediatype": "digital"
+    },
+    {
+        "album": "X6",
+        "artist": "Edo Saiya",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Duguilang",
+        "artist": "Ego Fall",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Inner M",
+        "artist": "Ego Fall",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Janger",
+        "artist": "Ego Fall",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Mask",
+        "artist": "Ego Fall",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Spirit of Mongolia",
+        "artist": "Ego Fall",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Mondscheinlegenden",
+        "artist": "Eichenschild",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Leblos",
+        "artist": "Eisregen",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Zerfall",
+        "artist": "Eisregen",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Mein starrer Blick in die Dunkelheit",
+        "artist": "Elfenblut",
+        "mediatype": "digital"
+    },
+    {
+        "album": "May Our Chambers Be Full",
+        "artist": "Emma Ruth Rundle & Thou",
+        "mediatype": "digital"
+    },
+    {
+        "album": "In the Nightside Eclipse",
+        "artist": "Emperor",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Prometheus: The Discipline of Fire & Demise",
+        "artist": "Emperor",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Reverence",
+        "artist": "Emperor",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Wrath of the Tyrant / Emperor",
+        "artist": "Emperor",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Hordanes Land",
+        "artist": "Enslaved",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Berglicht",
+        "artist": "Erancnoir",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Imagination Never Fails",
+        "artist": "Erang",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The First Age",
+        "artist": "Erang",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Tome III",
+        "artist": "Erang",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Järtecken",
+        "artist": "Ereb Altor",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Elegies of the Stellar Wind",
+        "artist": "Evilfeast",
+        "mediatype": "digital"
+    },
+    {
+        "album": "A Warrior's Tale",
+        "artist": "Fading Aeon",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Awakening",
+        "artist": "Faunalord",
+        "mediatype": "digital"
+    },
+    {
+        "album": "snowy christmas days.",
+        "artist": "Feardog",
+        "mediatype": "digital"
+    },
+    {
+        "album": "I en tid som var...",
+        "artist": "Fejd",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Fist in Fetus",
+        "artist": "Fist in Fetus",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Veleno",
+        "artist": "Fleshgod Apocalypse",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Nihilistic Estrangement",
+        "artist": "Forgotten Tomb",
+        "mediatype": "digital"
+    },
+    {
+        "album": "I",
+        "artist": "Fuath",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Hekatomb",
+        "artist": "Funeral Mist",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Gateways To Esoteric Light",
+        "artist": "Funeralis",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Humming Mountain",
+        "artist": "Gaahls WYRD",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Ashen Eidolon",
+        "artist": "Gallowbraid",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Hildegard Von Bingen",
+        "artist": "Garmarna",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The First Alchemist",
+        "artist": "George Constantine Kratsas",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Funeral",
+        "artist": "Ghost Bath",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Moonlover",
+        "artist": "Ghost Bath",
+        "mediatype": "digital"
+    },
+    {
+        "album": "N/O/I/S/E",
+        "artist": "Ghostemane",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Plagues",
+        "artist": "Ghostemane",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Calypso",
+        "artist": "Gigi Masin",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Timewheel",
+        "artist": "Gloosh",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Dauðr Burðr Þrysvar",
+        "artist": "Gnosis of the Witch",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Non Paradisi",
+        "artist": "GosT",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Ektoplasma",
+        "artist": "Grafi",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Geistermusik",
+        "artist": "Grafi",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Unter Null",
+        "artist": "Grafi",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Fields of Blood",
+        "artist": "Grave Digger",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Christenschmähung",
+        "artist": "Grausamkeit",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Final Fantasy VI: Selected Works",
+        "artist": "Gregorio Franco",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Final Fantasy VII: Selected Works",
+        "artist": "Gregorio Franco",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Scourge",
+        "artist": "Gregorio Franco",
+        "mediatype": "digital"
+    },
+    {
+        "album": "This World Turns",
+        "artist": "Hair Of The Dog",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Blodspår",
+        "artist": "Hel",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Leben Gescheitert",
+        "artist": "Herbstregen",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Wakeup Fakepop",
+        "artist": "Hercelot",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Ageless",
+        "artist": "Hesychast",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Cocobolo",
+        "artist": "HM Surf",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Mujura",
+        "artist": "HM Surf",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Die Kraft der Szenarien",
+        "artist": "Horn",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Jahreszeiten",
+        "artist": "Horn",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Turm am Hang",
+        "artist": "Horn",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Demo II: Bitter Tears, Dreams of Dawn",
+        "artist": "Howling Waste",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Far From Home",
+        "artist": "Hugo Kant",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Out Of Time",
+        "artist": "Hugo Kant",
+        "mediatype": "digital"
+    },
+    {
+        "album": "雲雀",
+        "artist": "雲雀 -Hibari-",
+        "mediatype": "digital"
+    },
+    {
+        "album": "靖難",
+        "artist": "禦矢",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Louisiana Voodoo",
+        "artist": "I Shalt Become",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Ballad of the Broken",
+        "artist": "If I Could Kill Myself",
+        "mediatype": "digital"
+    },
+    {
+        "album": "One Last Final Action",
+        "artist": "I'm In A Coffin",
+        "mediatype": "digital"
+    },
+    {
+        "album": "At The Heart Of Winter",
+        "artist": "Immortal",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Diabolical Fullmoon Mysticism",
+        "artist": "Immortal",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Head of Nasa and the 2 Amish Boys",
+        "artist": "Infected Mushroom",
+        "mediatype": "digital"
+    },
+    {
+        "album": "More than Just a Name",
+        "artist": "Infected Mushroom",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Vicious Delicious",
+        "artist": "Infected Mushroom",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Revenant",
+        "artist": "Inferi",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Vultures",
+        "artist": "Inferno Requiem",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Where Only Gods May Tread",
+        "artist": "Ingested",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Walk In Silence",
+        "artist": "Innersight",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Alchemy of Dreams",
+        "artist": "Innersight",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Air",
+        "artist": "Intoxication Advice",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Access All Worlds",
+        "artist": "Iotunn",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Screams in Cold Silence",
+        "artist": "Isenblåst",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Iskra",
+        "artist": "Iskra",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Ruins",
+        "artist": "Iskra",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Eagle, Quetzal, and Condor",
+        "artist": "Ixachitlan",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Tiempo Congelado",
+        "artist": "Jawcen",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Saint",
+        "artist": "Jiub",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Relaxing Beats To Duel To",
+        "artist": "Jupiter Productions",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Demonocracy",
+        "artist": "Job For A Cowboy",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Menschenmühle",
+        "artist": "Kanonenfieber",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Children Of The Void",
+        "artist": "Karkaos",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Forced Evil",
+        "artist": "KGP",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Night & Love",
+        "artist": "Këkht Aräkh",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Pale Swordsman",
+        "artist": "Këkht Aräkh",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Unreleased 2002-2012",
+        "artist": "Kettel",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Satan's Boundaries Unchained",
+        "artist": "Ketzer",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Therefore/Without",
+        "artist": "Keyes",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Salt",
+        "artist": "Khôrada",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The End Of Heartache",
+        "artist": "Killswitch Engage",
+        "mediatype": "digital"
+    },
+    {
+        "album": "\"Them\"",
+        "artist": "King Diamond",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Bossaura Street EP",
+        "artist": "Kollegah",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Cry To Me, River",
+        "artist": "Kroda",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Schwarzpfad",
+        "artist": "Kroda",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Old Soul",
+        "artist": "L'Orange",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Dungeon Crawler",
+        "artist": "Legendry",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Process of Elimination",
+        "artist": "Leng Tch'e",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Dietrich",
+        "artist": "Letharia",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Unbearable Darkness of Being",
+        "artist": "Lifeless Gaze",
+        "mediatype": "digital"
+    },
+    {
+        "album": "ΩMEGA MALL X",
+        "artist": "Limousine",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "artist": "Limp Bizkit",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Building Blocks",
+        "artist": "Living Roots",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Bleibe Echt",
+        "artist": "Liz",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Tequila Berserker",
+        "artist": "Los Cochinos",
+        "mediatype": "digital"
+    },
+    {
+        "album": "christmas",
+        "artist": "Louie Zong",
+        "mediatype": "digital"
+    },
+    {
+        "album": "festive!",
+        "artist": "Louie Zong",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Exot",
+        "artist": "Luciano",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Scald with Fever and Opulence",
+        "artist": "Luminous Veil",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Warmth of Your Sun",
+        "artist": "Lustbass",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Procession",
+        "artist": "Lycopolis",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Zyklus",
+        "artist": "◊",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Under Ein Blødraud Maane",
+        "artist": "Manes",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Virus.DOS",
+        "artist": "Master Boot Record",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Black Materia: The Remixes",
+        "artist": "Mega Ran",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Jakirinne",
+        "artist": "Meimugenyou[Imisouji]",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Don't Break the Oath",
+        "artist": "Mercyful Fate",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Free 'Em all",
+        "artist": "Metallica",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Illuminatio",
+        "artist": "Metatron Omega",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Alpenpässe",
+        "artist": "Minenwerfer",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Hinweg über die Tore der Zeit",
+        "artist": "Mjölnir",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Unter dem Marmor",
+        "artist": "Moëvöt",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Black Encyclopedia of the Air",
+        "artist": "Moor Mother",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Smell of Rain",
+        "artist": "Mortiis",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Reincarnate",
+        "artist": "Motionless in White",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Le Rythme du Maréchal Ferrant",
+        "artist": "Moulin Banal",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Mourning By Morning",
+        "artist": "Mourning By Morning",
+        "mediatype": "digital"
+    },
+    {
+        "album": "ASHTA (A Silent Hill Tribute Album)",
+        "artist": "Moxie",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Remains of a Ruined, Dead, Cursed Soul",
+        "artist": "Mütiilation",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Rattenkönig",
+        "artist": "Mütiilation",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Folkesange",
+        "artist": "Myrkur",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Yodh",
+        "artist": "מזמור",
+        "mediatype": "digital"
+    },
+    {
+        "album": "怪談",
+        "artist": "冥丁",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Jakirinne",
+        "artist": "冥無幻妖、「忌み双児」",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Bergdorf",
+        "artist": "Nachteule",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Scum",
+        "artist": "Napalm Death",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Black Metal ist Krieg (A Dedication Monument)",
+        "artist": "Nargaroth",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Era of Threnody",
+        "artist": "Nargaroth",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Rasluka I & II",
+        "artist": "Nargaroth",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Semper Fidelis",
+        "artist": "Nargaroth",
+        "mediatype": "digital"
+    },
+    {
+        "album": "A Key to Panngrieb",
+        "artist": "Narrow House",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Ours is the Storm",
+        "artist": "Neaera",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Ancient Pulse",
+        "artist": "Nechochwen",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Crossing the Fiery Path",
+        "artist": "Necromantia",
+        "mediatype": "digital"
+    },
+    {
+        "album": "In Depths We Sleep",
+        "artist": "Necropanther",
+        "mediatype": "digital"
+    },
+    {
+        "album": "King of Worms",
+        "artist": "Never Before",
+        "mediatype": "digital"
+    },
+    {
+        "album": "OneShot Soundtrack",
+        "artist": "Nightmargin (Casey Gu), ft Eliza Velasquez and Michael Shirt",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Wisdom Eyes",
+        "artist": "Nine Treasures",
+        "mediatype": "digital"
+    },
+    {
+        "album": "I Will Die Tomorrow...",
+        "artist": "No Point In Living",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Winter",
+        "artist": "No Point In Living",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Голос Сталі",
+        "artist": "Nokturnal Mortum",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Істина",
+        "artist": "Nokturnal Mortum",
+        "mediatype": "digital"
+    },
+    {
+        "album": "До лунарної поезії",
+        "artist": "Nokturnal Mortum",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Damp Chill of Life",
+        "artist": "None",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Life Has Gone On Long Enough",
+        "artist": "None",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Tijuana Sessions Vol. 1",
+        "artist": "Nortec Collective",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Princess Celestia Is Best Pony",
+        "artist": "Not A Clever Pony",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Alliums",
+        "artist": "Notta Comet",
+        "mediatype": "digital"
+    },
+    {
+        "album": "(Supervoids)",
+        "artist": "NǽnøĉÿbbŒrğ VbëřřĦōlökäävsŦ",
+        "mediatype": "digital"
+    },
+    {
+        "album": "From a Whisper",
+        "artist": "Oak Pantheon",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Palms Of Sorrowed Kings",
+        "artist": "Obsequiae",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Enemy Within",
+        "artist": "Occult",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Leuchtend tobt der Geisterwald",
+        "artist": "Odal",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Sturmes Brut",
+        "artist": "Odal",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Welten Mutter",
+        "artist": "Odal",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Mirror Of Vibrations",
+        "artist": "Odious",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Lasst euch sagen aus alten Tagen...",
+        "artist": "Odroerir",
+        "mediatype": "digital"
+    },
+    {
+        "album": "On Ghastly Shores Lay the Wreckage of Our Lore",
+        "artist": "Old Corpse Road",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Mossweaver",
+        "artist": "Old Growth",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Destroyed in Delight",
+        "artist": "Ophelia Falling",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Totentanz bei Finsternis",
+        "artist": "Orcaluv",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Nachts wacht die Eule",
+        "artist": "Orcaluv",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Sequel to Hibakusha",
+        "artist": "ORigami geijutsU",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Meanders a Soul...",
+        "artist": "Osiris",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Antares",
+        "artist": "Ours Samplus",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Terraphage",
+        "artist": "Ovid's Withering",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Archetypal",
+        "artist": "Paleowolf",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Tecumseh's War",
+        "artist": "Pan-Amerikan Native Front",
+        "mediatype": "digital"
+    },
+    {
+        "album": "...And Again Into the Light",
+        "artist": "Panopticon",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Kentucky",
+        "artist": "Panopticon",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Philos",
+        "artist": "Park Jiha",
+        "mediatype": "digital"
+    },
+    {
+        "album": "There was a HOLE here, it's gone now...",
+        "artist": "Paws Menu & Rainbow Macaw",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Geister",
+        "artist": "Paysage d'Hiver",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Kristall & Isa",
+        "artist": "Paysage d'Hiver",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Grim Fandango Remastered: Original Soundtrack",
+        "artist": "Peter McConnell",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Rundgang",
+        "artist": "PhistoH",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Flamme der Weisheit",
+        "artist": "phistoh",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Héritage",
+        "artist": "phistoh",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Kerker und Drachen",
+        "artist": "phistoh",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Aufbruch",
+        "artist": "phistoh",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Unreleased",
+        "artist": "phistoh",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Germany's next Mixtape",
+        "artist": "Prayamond",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Gathering Wilderness",
+        "artist": "Primordial",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Curses from pat times",
+        "artist": "ProleteR",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Ascetic Eventide",
+        "artist": "Pure Wrath",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Have a nice Trip",
+        "artist": "Psychonaut 4",
+        "mediatype": "digital"
+    },
+    {
+        "album": "A Moon Shaped Pool",
+        "artist": "Radiohead",
+        "mediatype": "digital"
+    },
+    {
+        "album": "OK Computer OKNOTOK 1997 2017",
+        "artist": "Radiohead",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Imploder",
+        "artist": "Rage Of Light",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Black Materia: Final Fantasy VII",
+        "artist": "Random (Mega Ran)",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Geisslerlieder",
+        "artist": "Rattenfänger",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Winterstille",
+        "artist": "Rauhnåcht",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Madness & Despair",
+        "artist": "Razakel",
+        "mediatype": "digital"
+    },
+    {
+        "album": "R'lyeh",
+        "artist": "Reblooming",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Nightmare Outbreak",
+        "artist": "Release Hallucination",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Eventide",
+        "artist": "Reliqa",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Teratogenesis",
+        "artist": "Revocation",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Dawn of Victory",
+        "artist": "Rhapsody",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Legendary Tales",
+        "artist": "Rhapsody",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Power of the Dragonflame",
+        "artist": "Rhapsody",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Rain of a Thousand Flames",
+        "artist": "Rhapsody",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Symphony of Enchanted Lands",
+        "artist": "Rhapsody",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Geometry Dash Soundtrack",
+        "artist": "RoboTop Games",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Leave",
+        "artist": "Sadness",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Forgotten Paths",
+        "artist": "Saor",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Live at the Opera",
+        "artist": "Satyricon",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Letters from the Edge",
+        "artist": "Sear Bliss",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Innocent One",
+        "artist": "Seduction",
+        "mediatype": "digital"
+    },
+    {
+        "album": "1973",
+        "artist": "Seirom",
+        "mediatype": "digital"
+    },
+    {
+        "album": "From Both Our Hands",
+        "artist": "Sertraline",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Beyond the Shores (On Death and Dying)",
+        "artist": "Shores of Null",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Are You Shpongled",
+        "artist": "Shpongle",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Inner Landscape",
+        "artist": "Shwamp",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Valtari",
+        "artist": "Sigur Rós",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Death, Pierce Me",
+        "artist": "Silencer",
+        "mediatype": "digital"
+    },
+    {
+        "album": "In Hell, I Shred",
+        "artist": "SkateGoat",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Roots Rock Riot",
+        "artist": "Skindred",
+        "mediatype": "digital"
+    },
+    {
+        "album": "A Piece for Mind & Mirror",
+        "artist": "Skuggsjá",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Nowhere Neverland",
+        "artist": "Skypho",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Treemixes V1",
+        "artist": "Skytree",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Unfolding",
+        "artist": "Sleepermane",
+        "mediatype": "digital"
+    },
+    {
+        "album": "All Hope Is Gone",
+        "artist": "Slipknot",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Nolife",
+        "artist": "Smash Hit Combo",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Times of Obscene Evil and Wild Daring",
+        "artist": "Smoulder",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Filthy Waters",
+        "artist": "Smug Anime Face",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Slimeageddon",
+        "artist": "Snails",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Imaginarium",
+        "artist": "Snail's House",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Snö",
+        "artist": "Snail's House",
+        "mediatype": "digital"
+    },
+    {
+        "album": "From Tha Streets 2 Tha Suites",
+        "artist": "Snoop Dogg",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Asakusa Light",
+        "artist": "Soichi Terada",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Endless Twilight of Codependent Love",
+        "artist": "Sólstafir",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Ghastly Memories",
+        "artist": "Sorcier Des Glaces",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Ritual of the End",
+        "artist": "Sorcier des Glaces",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Sorcier des Glaces",
+        "artist": "Sorcier des Glaces",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Puressence of Primitive Forests",
+        "artist": "Sorcier des Glaces",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Un Monde de Glace et Sang",
+        "artist": "Sorcier des Glaces",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Autumn Wind",
+        "artist": "Sorg Uten Tårer",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Grave Songs",
+        "artist": "Sorg Uten Tårer",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Forgotten Conquest",
+        "artist": "Soulside Eclipse",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Sourze Codex",
+        "artist": "Sourze",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Gnosis",
+        "artist": "Spectral Lore",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Bergentrückt",
+        "artist": "Sturmpercht",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Unknown Entities",
+        "artist": "Striborg",
+        "mediatype": "digital"
+    },
+    {
+        "album": "4 死 Death",
+        "artist": "Struggling Harsh Immortals",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Venus",
+        "artist": "Suduaya",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Memory of Nomadism",
+        "artist": "Suld",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Червів майбутня здобич",
+        "artist": "svrm",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Phantasms",
+        "artist": "Swamp Lantern",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Deathraider",
+        "artist": "Swordmaster",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Protect The Land & Genocidal Humanoidz",
+        "artist": "System of a Down",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Nebelkämpfe",
+        "artist": "Taunusheim",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Wolfenzeitalter",
+        "artist": "Tha-Norr",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Animosity",
+        "artist": "The Berzerker",
+        "mediatype": "digital"
+    },
+    {
+        "album": "World of Lies",
+        "artist": "The Berzerker",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Come, Reap",
+        "artist": "The Devil's Blood",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Undertow",
+        "artist": "The Rain Kills Quietly",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Forlorn",
+        "artist": "Those Who Ride With Giants",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Numinous",
+        "artist": "Those Who Ride With Giants",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Those Who Ride With Giants",
+        "artist": "Those Who Ride With Giants",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Metachthonia",
+        "artist": "Thrawsunblat",
+        "mediatype": "digital"
+    },
+    {
+        "album": "A Dying Wish",
+        "artist": "Thulcandra",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Urkraft",
+        "artist": "Thyrfing",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Vanagandr",
+        "artist": "Thyrfing",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Scarred People",
+        "artist": "Tiamat",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Night Drive",
+        "artist": "Timecop1983",
+        "mediatype": "digital"
+    },
+    {
+        "album": "UNDERTALE Soundtrack",
+        "artist": "Toby Fox",
+        "mediatype": "digital"
+    },
+    {
+        "album": "DELTARUNE Chapter 1 OST",
+        "artist": "Toby Fox",
+        "mediatype": "digital"
+    },
+    {
+        "album": "DELTARUNE Chapter 2 OST",
+        "artist": "Toby Fox",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Into The Mists",
+        "artist": "Travis Savoie",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Drep De Kristne",
+        "artist": "Troll",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Universal",
+        "artist": "Troll",
+        "mediatype": "digital"
+    },
+    {
+        "album": "In Nomine Éireann",
+        "artist": "Tuatha de Danann",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Where Birds Sing My Name",
+        "artist": "Twilight Fauna",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Hel",
+        "artist": "Týr",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Sleeping Wizard",
+        "artist": "Umbría",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Black Metal Resistance",
+        "artist": "Underground Resistance: In Aid of Ukraine",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Between the Winds",
+        "artist": "Untamed Land",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Uther Moads",
+        "artist": "Uther Moads",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Patriarchs Of Evil",
+        "artist": "Varathron",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Cozy Winter",
+        "artist": "Various Artists",
+        "mediatype": "digital"
+    },
+    {
+        "album": "March to the Black Holocaust",
+        "artist": "Various Artists",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Poacher Diaries",
+        "artist": "Various Artists",
+        "mediatype": "digital"
+    },
+    {
+        "album": "soft nostalgic",
+        "artist": "vcr-classique",
+        "mediatype": "digital"
+    },
+    {
+        "album": "VHS LOUNGE",
+        "artist": "vcr-classique",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Nachtschwarz",
+        "artist": "Vergänglichkeit",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Le domaine des hommes",
+        "artist": "Verlies",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Themes of Snow and Sorrow",
+        "artist": "Vindensång",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Desperate Dreams",
+        "artist": "Violet Cold",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Noir Kid",
+        "artist": "Violet Cold",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Hedensk Skikk Og Tro",
+        "artist": "Viðr",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Pod nočným závojom",
+        "artist": "Vladimír Pavelka",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Spomienky",
+        "artist": "Vladimír Pavelka",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Radical Waves",
+        "artist": "Volcanova",
+        "mediatype": "digital"
+    },
+    {
+        "album": "殞煞",
+        "artist": "殞煞",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Dahoam",
+        "artist": "Waldgeflüster",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Mondscheinsonaten",
+        "artist": "Waldgeflüster",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Vast",
+        "artist": "Waterflame",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Entfremdungsmoment",
+        "artist": "Wigrid",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Sleep at the Edge of the Earth",
+        "artist": "Wilderun",
+        "mediatype": "digital"
+    },
+    {
+        "album": "No Stars, only full dark",
+        "artist": "Windbruch",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Unglücklich",
+        "artist": "Wisphaven",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Miserere",
+        "artist": "Wolves Den",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Primordial Arcana",
+        "artist": "Wolves in the Throne Room",
+        "mediatype": "digital"
+    },
+    {
+        "album": "End of World Rave",
+        "artist": "wosX",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Polyhymnia",
+        "artist": "Yazz Ahmed",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Last Scald",
+        "artist": "Ygg",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Ygg",
+        "artist": "Ygg",
+        "mediatype": "digital"
+    },
+    {
+        "album": "DR. EV4L",
+        "artist": "Young Nudy",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Hellveterra",
+        "artist": "Zer0 れい",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Afterimage of Autumn",
+        "artist": "ZURIAAKE",
+        "mediatype": "digital"
+    },
+    {
+        "album": "孤雁 / Gu Yan",
+        "artist": "ZURIAAKE",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Dunkelziffer",
+        "artist": "[:SITD:]",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Wahre Veteranen (Gastparts)",
+        "artist": "4.9.0 Friedhof Chiller",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Willkommen im Tal der Finsternis",
+        "artist": "4.9.0 Friedhof Chiller",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Day 69: Graduation Day",
+        "artist": "6ix9ine",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Grave Mounds and Grave Mistakes",
+        "artist": "A Forest Of Stars",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Dort, wo das alte Böse ruht",
+        "artist": "Aaskereia",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Zwischen Den Welten...",
+        "artist": "Aaskereia",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Outstrider",
+        "artist": "Abbath",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Blutgericht",
+        "artist": "Absurd",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Grimmige Volksmusik",
+        "artist": "Absurd",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Diamantgeiszt",
+        "artist": "Absztrakkt",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Waage & Fische",
+        "artist": "Absztrakkt & Cr7z",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Bodhiguard",
+        "artist": "Absztrakkt & Snowgoons",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Power Up",
+        "artist": "AC/DC",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Winter, so unsagbar Winter...",
+        "artist": "Adversus",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Formless",
+        "artist": "Aghora",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Boats Of The Glen Carrig",
+        "artist": "Ahab",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Giant",
+        "artist": "Ahab",
+        "mediatype": "cd"
+    },
+    {
+        "album": "A.S.S.N. 2",
+        "artist": "AK Ausserkontrolle",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Lebenslinie",
+        "artist": "Akrea",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Écailles De Lune",
+        "artist": "Alcest",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Les voyages de l'âme",
+        "artist": "Alcest",
+        "mediatype": "cd"
+    },
+    {
+        "album": ":tahoma:",
+        "artist": "Alda",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Dirt",
+        "artist": "Alice In Chains",
+        "mediatype": "cd"
+    },
+    {
+        "album": "In Gottes Namen",
+        "artist": "Alligatoah",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Schlaftabletten, Rotwein Teil III",
+        "artist": "Alligatoah",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Stromausfall / Triebwerke",
+        "artist": "Alligatoah",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Geburt",
+        "artist": "Allvaters Zorn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Amesoeurs",
+        "artist": "Amesoeurs",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Berserker",
+        "artist": "Amon Amarth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Deceiver Of The Gods",
+        "artist": "Amon Amarth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Fate of Norns",
+        "artist": "Amon Amarth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Jomsviking",
+        "artist": "Amon Amarth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "With Oden On Our Side",
+        "artist": "Amon Amarth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Try not to Destroy Everything You Love",
+        "artist": "An Autumn for Crippled Children",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Demo Recordings",
+        "artist": "Andúril",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Gegen Das Kreuz",
+        "artist": "AntiGott",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Requiem",
+        "artist": "AqME",
+        "mediatype": "cd"
+    },
+    {
+        "album": "For Battles Once Fought",
+        "artist": "Arafel",
+        "mediatype": "cd"
+    },
+    {
+        "album": "For Those That Wish to Exist",
+        "artist": "Architects",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Khram",
+        "artist": "Arkona",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Told Ya!",
+        "artist": "Asiatic Warriors",
+        "mediatype": "cd"
+    },
+    {
+        "album": "To Drink From The Night Itself",
+        "artist": "At The Gates",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Sanctimonious",
+        "artist": "Attic",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Gone",
+        "artist": "Autumn's Dawn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "DämmerElbenTragödie",
+        "artist": "Autumnblaze",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Moonglow",
+        "artist": "Avantasia",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Aggroswing",
+        "artist": "B-Tight",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Bobby Dick",
+        "artist": "B-Tight",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Deggael",
+        "artist": "Babylon Whores",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Des Kleinen Mannes Grössten Hits",
+        "artist": "Basstard",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Meister der Zeremonie",
+        "artist": "Basstard",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Quint Essenz 1 (Basstard's Gastparts)",
+        "artist": "Basstard",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Zwiespalt (Grau)",
+        "artist": "Basstard",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Zwiespalt (Schwarz)",
+        "artist": "Basstard",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Zwiespalt Trilogie (Grau, Schwarz, Weiß & Transparent)",
+        "artist": "Basstard",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Zwiespalt (Weiss)",
+        "artist": "Basstard",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Verdammt",
+        "artist": "Basstard & DJ Korx",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Zeitzeugen",
+        "artist": "Basstard & DJ Korx präsentieren: Horrorkore",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Under the Sign of the Black Mark",
+        "artist": "Bathory",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Licensed to Ill",
+        "artist": "Beastie Boys",
+        "mediatype": "cd"
+    },
+    {
+        "album": "And the Forests Dream Eternally",
+        "artist": "Behemoth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Demigod",
+        "artist": "Behemoth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Evangelion",
+        "artist": "Behemoth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Grom",
+        "artist": "Behemoth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "I loved you at your Darkest",
+        "artist": "Behemoth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Sventevith (Storming Near The Baltic)",
+        "artist": "Behemoth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Apostasy",
+        "artist": "Behemoth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Satanist",
+        "artist": "Behemoth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Thelema.6",
+        "artist": "Behemoth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Zos Kia Cultus (Here And Beyond)",
+        "artist": "Behemoth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Drawing Down the Moon",
+        "artist": "Beherit",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Nightside Emanations",
+        "artist": "Behexen",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Rituale Satanum",
+        "artist": "Behexen",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Poisonous Path",
+        "artist": "Behexen",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Lucifer Incestus",
+        "artist": "Belphegor",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Expedition Autarkis",
+        "artist": "Bergthron",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Jagdheim",
+        "artist": "Bergthron",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Uralte Gedanken",
+        "artist": "Bergthron",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Verborgen in den Tiefen der Wälder...",
+        "artist": "Bergthron",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Bethlehem",
+        "artist": "Bethlehem",
+        "mediatype": "cd"
+    },
+    {
+        "album": "千年",
+        "artist": "Black Kirin",
+        "mediatype": "cd"
+    },
+    {
+        "album": "13",
+        "artist": "Black Sabbath",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Black Sabbath",
+        "artist": "Black Sabbath",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Paranoid",
+        "artist": "Black Sabbath",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Memories of a Time to Come",
+        "artist": "Blind Guardian",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Nightfall in Middle-Earth",
+        "artist": "Blind Guardian",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Legacy of the Dark Lands",
+        "artist": "Blind Guardian Twilight Orchestra",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Helveteshymner",
+        "artist": "Blodsrit",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Hinterland",
+        "artist": "Blodsrit",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Supreme Misanthropy",
+        "artist": "Blodsrit",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Untergrund",
+        "artist": "Blokk & Arzt",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ein Dadash kommt selten allein",
+        "artist": "Blokkmonsta & KDM Shey",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Fire Of Unknown Origin",
+        "artist": "Blue Öyster Cult",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Yellow Album",
+        "artist": "Blumio",
+        "mediatype": "cd"
+    },
+    {
+        "album": "777 - Sect(s)",
+        "artist": "Blut aus Nord",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Deus Salutis Meæ",
+        "artist": "Blut Aus Nord",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Memoria Vetusta I - Fathers Of The Icy Ages",
+        "artist": "Blut Aus Nord",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Mein Fleisch An Deinen Lippen...",
+        "artist": "Bluttaufe",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Code: Dead",
+        "artist": "Bob E. Nite",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Carnivore",
+        "artist": "Body Count",
+        "mediatype": "cd"
+    },
+    {
+        "album": "True North",
+        "artist": "Borknagar",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Urd",
+        "artist": "Borknagar",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Winter Thrice",
+        "artist": "Borknagar",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Wings of Fire",
+        "artist": "Brymir",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Bullet for my Valentine",
+        "artist": "Bullet for my Valentine",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Belus",
+        "artist": "Burzum",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Fallen",
+        "artist": "Burzum",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Filosofem",
+        "artist": "Burzum",
+        "mediatype": "cd"
+    },
+    {
+        "album": "From the Depths of Darkness",
+        "artist": "Burzum",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Sôl austan, Màni vestan",
+        "artist": "Burzum",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Thulêan Mysteries",
+        "artist": "Burzum",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Umskiptar",
+        "artist": "Burzum",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Epicus Doomicus Metallicus",
+        "artist": "Candlemass",
+        "mediatype": "cd"
+    },
+    {
+        "album": "A Skeletal Domain",
+        "artist": "Cannibal Corpse",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Bloodthirst",
+        "artist": "Cannibal Corpse",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Red Before Black",
+        "artist": "Cannibal Corpse",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Paysages polaires",
+        "artist": "Cantique Lépreux",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Die Welt hört mich",
+        "artist": "Casper",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Hinterland",
+        "artist": "Casper",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Lang lebe der Tod",
+        "artist": "Casper",
+        "mediatype": "cd"
+    },
+    {
+        "album": "XOXO",
+        "artist": "Casper",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Monolith Of Inhumanity",
+        "artist": "Cattle Decapitation",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Mietwagentape 2",
+        "artist": "Celo & Abdi",
+        "mediatype": "cd"
+    },
+    {
+        "album": "To Mega Therion",
+        "artist": "Celtic Frost",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Allvater",
+        "artist": "Centhron",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Hate Crew Deathroll",
+        "artist": "Children Of Bodom",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Hexed",
+        "artist": "Children Of Bodom",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Into The Battle",
+        "artist": "Circle Of Grief",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Forty Five",
+        "artist": "Cnoc An Tursa",
+        "mediatype": "cd"
+    },
+    {
+        "album": "This Is Where Death Begins",
+        "artist": "Combichrist",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Payment Of Existence",
+        "artist": "Communic",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Witchcraft Destroys Minds & Reaps Souls",
+        "artist": "Coven",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Newline",
+        "artist": "CR7Z & Snowgoons",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Bitter Suites To Succubi",
+        "artist": "Cradle Of Filth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Cruelty and the Beast",
+        "artist": "Cradle of Filth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Cryptoriana - The Seductiveness Of Decay",
+        "artist": "Cradle of Filth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Darkly, Darkly, Venus Aversa",
+        "artist": "Cradle of Filth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Dusk and her Embrace",
+        "artist": "Cradle of Filth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Existence is Futile",
+        "artist": "Cradle of Filth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Hammer of the Witches",
+        "artist": "Cradle of Filth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Midnight in the Labyrinth",
+        "artist": "Cradle of Filth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Manticore and other Horrors",
+        "artist": "Cradle of Filth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Narben",
+        "artist": "Crystal F",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Elephants On Acid",
+        "artist": "Cypress Hill",
+        "mediatype": "cd"
+    },
+    {
+        "album": "ΔAIMON",
+        "artist": "ΔAIMON",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Artificial Selection",
+        "artist": "Dance Gavin Dance",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Danzig II: Lucifuge",
+        "artist": "Danzig",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Arctic Thunder",
+        "artist": "Darkthrone",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Transilvanian Hunger",
+        "artist": "Darkthrone",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Circle The Wagons",
+        "artist": "Darkthrone",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Old Star",
+        "artist": "Darkthrone",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Underground Resistance",
+        "artist": "Darkthrone",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Under a Funeral Moon",
+        "artist": "Darkthrone",
+        "mediatype": "cd"
+    },
+    {
+        "album": "You Won't Get What You Want",
+        "artist": "Daughters",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Man Who Sold the World",
+        "artist": "David Bowie",
+        "mediatype": "cd"
+    },
+    {
+        "album": "D.W.I.S",
+        "artist": "DCVDNS",
+        "mediatype": "cd"
+    },
+    {
+        "album": "And the Anonymous Nobody",
+        "artist": "De La Soul",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Jackal",
+        "artist": "DefRage",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Wer sagt denn das",
+        "artist": "Deichkind",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Legion",
+        "artist": "Deicide",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Stench of Redemption",
+        "artist": "Deicide",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Demons & Wizards",
+        "artist": "Demons & Wizards",
+        "mediatype": "cd"
+    },
+    {
+        "album": "III",
+        "artist": "Demons & Wizards",
+        "mediatype": "cd"
+    },
+    {
+        "album": "da nich für!",
+        "artist": "Dendemann",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Violator",
+        "artist": "Depeche Mode",
+        "mediatype": "cd"
+    },
+    {
+        "album": "II - The Mephisto Waltzes",
+        "artist": "Devilment",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Denn Dein Ist Das Reich Und Die Kraft Und Die Herrlichkeit, In Ewigkeit, Orsons",
+        "artist": "Die Orsons",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Enthrone Darkness Triumphant",
+        "artist": "Dimmu Borgir",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Dream Evil",
+        "artist": "Dio",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Holy Diver",
+        "artist": "Dio",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Lock Up the Wolves",
+        "artist": "Dio",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Sacred Heart",
+        "artist": "Dio",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Last in Line",
+        "artist": "Dio",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Separation",
+        "artist": "Disguised",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Believe",
+        "artist": "Disturbed",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Bis Einer Weint",
+        "artist": "DNP",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Her von welken Nächten",
+        "artist": "Dornenreich",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Hatred For Mankind",
+        "artist": "Dragged Into Sunlight",
+        "mediatype": "cd"
+    },
+    {
+        "album": "2 Chirurgen drehen durch 2",
+        "artist": "Dr. Faustus & Dr. Jekyll",
+        "mediatype": "cd"
+    },
+    {
+        "album": "NV",
+        "artist": "Dragged Into Sunlight / Gnaw Their Tongues",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Warrior's Code",
+        "artist": "Dropkick Murphys",
+        "mediatype": "cd"
+    },
+    {
+        "album": "A Furrow Cut Short",
+        "artist": "Drudkh",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Autumn Aurora",
+        "artist": "Drudkh",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Handful of Stars",
+        "artist": "Drudkh",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Eternal Turn Of The Wheel",
+        "artist": "Drudkh",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Microcosmos",
+        "artist": "Drudkh",
+        "mediatype": "cd"
+    },
+    {
+        "album": "They Often See Dreams About the Spring",
+        "artist": "Drudkh",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Double Vision",
+        "artist": "DUO",
+        "mediatype": "cd"
+    },
+    {
+        "album": " Son of the Shades",
+        "artist": "Elffor",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Lebensnehmer",
+        "artist": "Ellende",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Era",
+        "artist": "Elvenking",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Red Silent Tides",
+        "artist": "Elvenking",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Secrets of the Magick Grimoire",
+        "artist": "Elvenking",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Pagan Manifesto",
+        "artist": "Elvenking",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Marshall Mathers LP 2",
+        "artist": "Eminem",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Axioma Ethica Odini",
+        "artist": "Enslaved",
+        "mediatype": "cd"
+    },
+    {
+        "album": "E",
+        "artist": "Enslaved",
+        "mediatype": "cd"
+    },
+    {
+        "album": "In Times",
+        "artist": "Enslaved",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Riitiir",
+        "artist": "Enslaved",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Utgard",
+        "artist": "Enslaved",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Left Hand Path",
+        "artist": "Entombed",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Bowels of Earth",
+        "artist": "Entombed A.D.",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Demo 2003",
+        "artist": "Equilibrium",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Turis Fratyr",
+        "artist": "Equilibrium",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Sagas",
+        "artist": "Equilibrium",
+        "mediatype": "cd"
+    },
+    {
+        "album": "III",
+        "artist": "Eths",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Tag des Raben",
+        "artist": "Eugenik",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Extol",
+        "artist": "Extol",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Zornfeuer",
+        "artist": "F.A.K.",
+        "mediatype": "cd"
+    },
+    {
+        "album": "...En Their Medh Riki Fara...",
+        "artist": "Falkenbach",
+        "mediatype": "cd"
+    },
+    {
+        "album": "...magni blandinn ok megintiri...",
+        "artist": "Falkenbach",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Asa",
+        "artist": "Falkenbach",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Heralding - The Fireblade",
+        "artist": "Falkenbach",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ok Nefna Tysvar Ty",
+        "artist": "Falkenbach",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Tiurida",
+        "artist": "Falkenbach",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Alter Ego",
+        "artist": "Fard",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Blut, Schweiss, Tränen & Triumphe",
+        "artist": "Fard",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Invictus",
+        "artist": "Fard",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Nazizi",
+        "artist": "Fard",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Asozialer Marokkaner",
+        "artist": "Farid Bang",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Genkidama",
+        "artist": "Farid Bang",
+        "mediatype": "cd"
+    },
+    {
+        "album": "X",
+        "artist": "Farid Bang",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Insects",
+        "artist": "farsot.",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Christoph Alex",
+        "artist": "Favorite",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Neues von Gott",
+        "artist": "Favorite",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Strength in Numb333rs",
+        "artist": "Fever 333",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Jaktens Tid",
+        "artist": "Finntroll",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Midnattens Widunder",
+        "artist": "Finntroll",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ernte im Herbst",
+        "artist": "Fjoergyn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Der Wind Hat Mir Ein Lied Erzählt",
+        "artist": "Fornost",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Urbärglieder",
+        "artist": "Fräkmündt",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Mutterficker",
+        "artist": "Frauenarzt",
+        "mediatype": "cd"
+    },
+    {
+        "album": "XXX",
+        "artist": "Frauenarzt",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Porno Mafia - Kings of Bass",
+        "artist": "Frauenarzt & Orgasmus",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Gott",
+        "artist": "Frauenarzt & Taktlo$$",
+        "mediatype": "cd"
+    },
+    {
+        "album": "......Return of the Old Goat",
+        "artist": "Funereus",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Legends from now and nevermore",
+        "artist": "Galloglass",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Pokémon X & Pokémon Y: Super Music Collection",
+        "artist": "Game Freak",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Escape",
+        "artist": "Germ",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Wish",
+        "artist": "Germ",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Life after Sundown",
+        "artist": "Ghoultown",
+        "mediatype": "cd"
+    },
+    {
+        "album": "We're New Here",
+        "artist": "Gil Scott-Heron and Jamie xx",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Silent Scream",
+        "artist": "Gnome",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Fortitude",
+        "artist": "Gojira",
+        "mediatype": "cd"
+    },
+    {
+        "album": "L'Enfant Sauvage",
+        "artist": "Gojira",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Naishikyo-Sekai",
+        "artist": "Gonin-Ish",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Under the Sign of Hell 2011",
+        "artist": "Gorgoroth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Faces of Gore",
+        "artist": "Gory Gore",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ab 18",
+        "artist": "GPC",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Wolf God",
+        "artist": "Grand Magus",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Healed by Metal",
+        "artist": "Grave Digger",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Rheingold",
+        "artist": "Grave Digger",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Scourge of Malice",
+        "artist": "Graveworm",
+        "mediatype": "cd"
+    },
+    {
+        "album": "When Daylight's Gone & Underneath the Crescent Moon",
+        "artist": "Graveworm",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Dookie",
+        "artist": "Green Day",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Appetite for Destruction",
+        "artist": "Guns N' Roses",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Covered with Ants",
+        "artist": "Guttermouth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Blockplatin",
+        "artist": "Haftbefehl",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Das schwarze Album",
+        "artist": "Haftbefehl",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Das weiße Album",
+        "artist": "Haftbefehl",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Russisch Roulette",
+        "artist": "Haftbefehl",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Eppur Si Muove",
+        "artist": "Haggard",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Chapter V: Unbent, Unbowed, Unbroken",
+        "artist": "Hammerfall",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Crimson Thunder",
+        "artist": "Hammerfall",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Glory To The Brave",
+        "artist": "Hammerfall",
+        "mediatype": "cd"
+    },
+    {
+        "album": "10",
+        "artist": "Hati",
+        "mediatype": "cd"
+    },
+    {
+        "album": "...von Glut und Wirbelrauch",
+        "artist": "Häxenzijrkell",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Des Lasters der Zauberey",
+        "artist": "Häxenzijrkell",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Of Truth & Sacrifice",
+        "artist": "Heaven Shall Burn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "A Death Gate Cycle",
+        "artist": "Heidenreich",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Eigengrab",
+        "artist": "Heimatærde",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Valkyriors Dom",
+        "artist": "Hel",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Keeper of the Seven Keys Part I",
+        "artist": "Helloween",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Keeper of the Seven Keys Part II",
+        "artist": "Helloween",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Abyssus Abyssum Invocat",
+        "artist": "Hirnspalt",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Mörder ohne Gesicht",
+        "artist": "Hirntot Posse",
+        "mediatype": "cd"
+    },
+    {
+        "album": "HT100",
+        "artist": "Hirntot Records",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Drama Konkret",
+        "artist": "Hiob",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Swan Songs",
+        "artist": "Hollywood Undead",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Magnificient Tree",
+        "artist": "Hooverphonic",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Mohngang",
+        "artist": "Horn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Worship",
+        "artist": "Hypocrisy",
+        "mediatype": "cd"
+    },
+    {
+        "album": "We The People",
+        "artist": "Ikkurruz",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Forest Poetry",
+        "artist": "Ildjarn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Northern Chaos Gods",
+        "artist": "Immortal",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Sons Of Northern Darkness",
+        "artist": "Immortal",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Dis Manibvs",
+        "artist": "Imperium Dekadenz",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Meadows of Nostalgia",
+        "artist": "Imperium Dekadenz",
+        "mediatype": "cd"
+    },
+    {
+        "album": "When We Are Forgotten",
+        "artist": "Imperium Dekadenz",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Minus The Herd",
+        "artist": "Ion Dissonance",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Seventh Son of a Seventh Son",
+        "artist": "Iron Maiden",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Number of the Beast",
+        "artist": "Iron Maiden",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Streifzug",
+        "artist": "Isar",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Vårjevndøgn",
+        "artist": "Isengard",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Insidious Star",
+        "artist": "Istapp",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ruining it for Everybody",
+        "artist": "iwrestledabearonce",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Late For Nothing",
+        "artist": "iwrestledabearonce",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Far Cry Primal Soundtrack",
+        "artist": "Jason Graves",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Die Unerträgliche Dreistigkeit Des Seins",
+        "artist": "JAW",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Seelensturm",
+        "artist": "JAW",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Täter-Opfer-Ausgleich",
+        "artist": "JAW",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Menschenfeind",
+        "artist": "JAW und Hollywood Hank",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Horizon Zero Dawn Soundtrack",
+        "artist": "Joris de Man",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Firepower",
+        "artist": "Judas Priest",
+        "mediatype": "cd"
+    },
+    {
+        "album": "KAAS & Jugglerz in Jamaica",
+        "artist": "KAAS",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Liebe, Sex und...Twilight Zone",
+        "artist": "KAAS",
+        "mediatype": "cd"
+    },
+    {
+        "album": "T.A.F.K.A.A.Z. :D",
+        "artist": "KAAS",
+        "mediatype": "cd"
+    },
+    {
+        "album": "My Beautiful Dark Twisted Fantasy",
+        "artist": "Kanye West",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ye",
+        "artist": "Kanye West",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Yeezus",
+        "artist": "Kanye West",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Brave Murder Day",
+        "artist": "Katatonia",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Detective Conan TV Original Soundtrack Selection Best",
+        "artist": "Katsuo Ohno",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Maximum III",
+        "artist": "KC Rebell & Summer Cem",
+        "mediatype": "cd"
+    },
+    {
+        "album": "To Pimp a Butterfly",
+        "artist": "Kendrick Lamar",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Hunted",
+        "artist": "Khemmis",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Occult Classic",
+        "artist": "Kill the Noise",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Nonagon Infinity",
+        "artist": "King Gizzard and the Wizard Lizard",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Manifest",
+        "artist": "King Orgasmus One",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Welcome To The Hood",
+        "artist": "King Orgasmus One",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Jung, Brutal, Gutaussehend 2 (Premium)",
+        "artist": "Kollegah & Farid Bang",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Jung, Brutal, Gutaussehend 3",
+        "artist": "Kollegah & Farid Bang",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Alphagene",
+        "artist": "Kollegah",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Alphagene 2",
+        "artist": "Kollegah",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Bossaura",
+        "artist": "Kollegah",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Imperator",
+        "artist": "Kollegah",
+        "mediatype": "cd"
+    },
+    {
+        "album": "King",
+        "artist": "Kollegah",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Monument",
+        "artist": "Kollegah",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Zuhältertape Vol. 4",
+        "artist": "Kollegah",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Aura",
+        "artist": "Kool Savas",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Follow The Leader",
+        "artist": "Korn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Issues",
+        "artist": "Korn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Korn III: Remember Who You Are",
+        "artist": "Korn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Korn",
+        "artist": "Korn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Life Is Peachy",
+        "artist": "Korn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Requiem",
+        "artist": "Korn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "See You On The Other Side",
+        "artist": "Korn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Take A Look In The Mirror",
+        "artist": "Korn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Nothing",
+        "artist": "Korn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Paradigm Shift",
+        "artist": "Korn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Path of Totality",
+        "artist": "Korn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Serenity of Suffering",
+        "artist": "Korn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Untouchables",
+        "artist": "Korn",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Meir",
+        "artist": "Kvelertak",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ominous",
+        "artist": "Lake of Tears",
+        "mediatype": "cd"
+    },
+    {
+        "album": ".neon",
+        "artist": "Lantlôs",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Agape",
+        "artist": "Lantlôs",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Melting Sun",
+        "artist": "Lantlôs",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Das Spiel...Sich im Kreise dreht",
+        "artist": "Letzte Instanz",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Lindsey Stirling",
+        "artist": "Lindsey Stirling",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Living Things",
+        "artist": "Linkin Park",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Reanimation",
+        "artist": "Linkin Park",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Hunting Party",
+        "artist": "Linkin Park",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Killing Raping Burning / The Devils Advocate",
+        "artist": "Lord Foul",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Hoagascht",
+        "artist": "Lunar Aurora",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Urminnes Hävd - The Forest Sessions",
+        "artist": "Månegarm",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Panique Celtique",
+        "artist": "Manau",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Blutsport",
+        "artist": "Manny Marc & Blokkmonsta",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Frontschwein",
+        "artist": "Marduk",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Opus Nocturne",
+        "artist": "Marduk",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Those of the Unlight",
+        "artist": "Marduk",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Golden Age of Grotesque",
+        "artist": "Marilyn Manson",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Der Ring der Nebelungen",
+        "artist": "Marsimoto",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Grüner Samt",
+        "artist": "Marsimoto",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Verde",
+        "artist": "Marsimoto",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Zu zweit allein",
+        "artist": "Marsimoto",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Jilemnicky Okultista",
+        "artist": "Master's Hammer",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Blood Mountain",
+        "artist": "Mastodon",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Hushed and Grim",
+        "artist": "Mastodon",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Once More 'round the Sun",
+        "artist": "Mastodon",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ultimate Care II",
+        "artist": "Matmos",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Daemon",
+        "artist": "Mayhem",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Esoteric Warfare",
+        "artist": "Mayhem",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Live in Leipzig",
+        "artist": "Mayhem",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Rap Dämon",
+        "artist": "MC Basstard",
+        "mediatype": "cd"
+    },
+    {
+        "album": "100%",
+        "artist": "MC Bogy",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Nordachse 2",
+        "artist": "MC Bomber & Shacke One",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Epigenesis",
+        "artist": "Melechesh",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ziuwari",
+        "artist": "Menhir",
+        "mediatype": "cd"
+    },
+    {
+        "album": " The Third Woe",
+        "artist": "Mephorash",
+        "mediatype": "cd"
+    },
+    {
+        "album": "...and Justice for all",
+        "artist": "Metallica",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Death Magnetic",
+        "artist": "Metallica",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Metallica",
+        "artist": "Metallica",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ride the Lightning",
+        "artist": "Metallica",
+        "mediatype": "cd"
+    },
+    {
+        "album": "S&M2",
+        "artist": "Metallica",
+        "mediatype": "cd"
+    },
+    {
+        "album": "St. Anger",
+        "artist": "Metallica",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Doom (Original Game Soundtrack)",
+        "artist": "Mick Gordon",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Mindlift",
+        "artist": "Mindlift",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Play",
+        "artist": "Moby",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Winter Falls Over the Land",
+        "artist": "Moonblood",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Jumalten Aika",
+        "artist": "Moonsorrow",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Hermitage",
+        "artist": "Moonspell",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Wahlheim",
+        "artist": "Morar",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Circus Maximus",
+        "artist": "Morlockk Dilemma",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Arrivé",
+        "artist": "Mortel",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Blood Of The Hermit",
+        "artist": "Mortualia",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Old Man's Wyntar",
+        "artist": "Mosaic",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Please don't Walk on the Mass Graves",
+        "artist": "Mourning Beloveth / The Ruins of Beverast",
+        "mediatype": "cd"
+    },
+    {
+        "album": "イリヤ - il y a -",
+        "artist": "夢中夢",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Ghost Of Orion",
+        "artist": "My Dying Bride",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Shehili",
+        "artist": "Myrath",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Drachenblut",
+        "artist": "Mystic Circle",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Hünengrab im Herbst",
+        "artist": "Nagelfar",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Srontgorrth (Die Macht erfasste das Meine wie die Angst das Blut der Anderen)",
+        "artist": "Nagelfar",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Fuck Off Nowadays Black Metal",
+        "artist": "Nargaroth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Geliebte des Regens",
+        "artist": "Nargaroth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Herbstleyd",
+        "artist": "Nargaroth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Orke",
+        "artist": "Nargaroth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Spectral Visions of Mental Warfare",
+        "artist": "Nargaroth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "...solang das Herz schlägt",
+        "artist": "Narziss",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Echo",
+        "artist": "Narziss",
+        "mediatype": "cd"
+    },
+    {
+        "album": "100% Hell",
+        "artist": "Necrodeath",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Century Child",
+        "artist": "Nightwish",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Oceanborn",
+        "artist": "Nightwish",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Wishmaster",
+        "artist": "Nightwish",
+        "mediatype": "cd"
+    },
+    {
+        "album": "At The Gate Of Sethu",
+        "artist": "Nile",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Vile Nilotic Rites",
+        "artist": "Nile",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Downward Spiral",
+        "artist": "Nine Inch Nails",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Final Fantasy VII Remake (Mini Soundtrack)",
+        "artist": "Nobuo Uematsu",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Verderbnis",
+        "artist": "Nocte Obducta",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Mogontiacum (Nachdem die Nacht herabgesunken...)",
+        "artist": "Nocte Obducta",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Umbriel (Das Schweigen zwischen den Sternen)",
+        "artist": "Nocte Obducta",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Oblivion",
+        "artist": "Noctem",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Shadowlands",
+        "artist": "Nocturnal Rites",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Sweet Home Scandinavia",
+        "artist": "NorseLaw",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Death Unlimited",
+        "artist": "Norther",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Kraft der Elemente",
+        "artist": "Nox Pestes",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Dynamit",
+        "artist": "Olli Banjo",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Kopfdisco",
+        "artist": "Olli Banjo",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Blackwater Park",
+        "artist": "Opeth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Watershed",
+        "artist": "Opeth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Folterkeller der Zombienutten",
+        "artist": "Orgasmus & Schwartz",
+        "mediatype": "cd"
+    },
+    {
+        "album": "All Is One",
+        "artist": "Orphaned Land",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Unsung Prophets & Dead Messiahs",
+        "artist": "Orphaned Land",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Kna'an",
+        "artist": "Orphaned Land & Amaseffer",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Under the Influence",
+        "artist": "Overkill",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ordinary Man",
+        "artist": "Ozzy Osbourne",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Cowboys from Hell",
+        "artist": "Pantera",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Gothic",
+        "artist": "Paradise Lost",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Das Tor",
+        "artist": "Paysage D'Hiver",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Im Wald",
+        "artist": "Paysage D'Hiver",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Lache und die Welt weint mir dir",
+        "artist": "PCP",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ten",
+        "artist": "Pearl Jam",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Episode 2 : Medecine Cake",
+        "artist": "Pleymo",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ich kiffe und jetzt?",
+        "artist": "Plusmacher",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Fin de Siècle",
+        "artist": "Porta Nigra",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Exile amongst the Ruins",
+        "artist": "Primordial",
+        "mediatype": "cd"
+    },
+    {
+        "album": "To The Nameless Dead",
+        "artist": "Primordial",
+        "mediatype": "cd"
+    },
+    {
+        "album": "pp = mc2",
+        "artist": "Prinz Porno",
+        "mediatype": "cd"
+    },
+    {
+        "album": "D.S.E.P.",
+        "artist": "Private Paul",
+        "mediatype": "cd"
+    },
+    {
+        "album": "DSEPR",
+        "artist": "Private Paul",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Emopunkrap",
+        "artist": "Private Paul",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Schwarzweissrot",
+        "artist": "Private Paul",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Tonight the Stars Revolt!",
+        "artist": "Powerman 5000",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Quest For Blood",
+        "artist": "Quest For Blood",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Rage Against the Machine",
+        "artist": "Rage Against the Machine",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Psychopathology",
+        "artist": "Ragnarok",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Rammstein",
+        "artist": "Rammstein",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Magic Of The Wizard's Dream",
+        "artist": "Rhapsody",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Glory For Salvation",
+        "artist": "Rhapsody of Fire",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Live - From Chaos to Eternity",
+        "artist": "Rhapsody of Fire",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Eighth Mountain",
+        "artist": "Rhapsody of Fire",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Des Blutes Stimme",
+        "artist": "Riger",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Concious Seed of Light",
+        "artist": "Rivers of Nihil",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Where Owls Know My Name",
+        "artist": "Rivers of Nihil",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Cobblepot",
+        "artist": "Rockstah",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Κατά τον δαίμονα εαυτού",
+        "artist": "Rotting Christ",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Port Royal",
+        "artist": "Running Wild",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Moving Pictures",
+        "artist": "Rush",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Symptome",
+        "artist": "Rynerrr",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Gutmensch/Wutbürger",
+        "artist": "Rynerrr Schrott",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Above",
+        "artist": "Samael",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ceremony Of Opposites & Rebellion",
+        "artist": "Samael",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Hegemony",
+        "artist": "Samael",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Lux Mundi",
+        "artist": "Samael",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Reign Of Light",
+        "artist": "Samael",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Solar Soul",
+        "artist": "Samael",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Worship Him",
+        "artist": "Samael",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Asen'ka - Ein Märchen für Kinder und solche die es werden wollen",
+        "artist": "Samsas Traum",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Die Liebe Gottes",
+        "artist": "Samsas Traum",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Heiliges Herz - Das Schwert deiner Sonne",
+        "artist": "Samsas Traum",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Oh Luna Mein",
+        "artist": "Samsas Traum",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Hochkultur",
+        "artist": "Samy Deluxe",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Disciple of the Heinous Path",
+        "artist": "Sargeist",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Let the Devil In",
+        "artist": "Sargeist",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Satanic Black Devotion",
+        "artist": "Sargeist",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Tyranny Returns",
+        "artist": "Sargeist",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Daemontape",
+        "artist": "Satanic Steve",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Deep Calleth Upon Deep",
+        "artist": "Satyricon",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Royal Bunker",
+        "artist": "Savas & Sido",
+        "mediatype": "cd"
+    },
+    {
+        "album": "DXXM",
+        "artist": "Scarlxrd",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Immxrtalisatixn",
+        "artist": "Scarlxrd",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Herrlich Hässlich",
+        "artist": "Scheusal Und Kunstfehler",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Bis Du Schwartz Siehst",
+        "artist": "Schwartz",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Der Teenieslasher",
+        "artist": "Schwartz",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Schwartz",
+        "artist": "Schwartz",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Penitron (Promo)",
+        "artist": "Scoped Scamp",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Only Bodies Left Behind",
+        "artist": "Scum",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Dinner's Served",
+        "artist": "Scum",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Sick Shit",
+        "artist": "Scum",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Jenseits der Schatten",
+        "artist": "Seelengreif",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Chronik III",
+        "artist": "Selfmade Records",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Titan / The Titan Symphonies",
+        "artist": "Septicflesh",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Kairos",
+        "artist": "Sepultura",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Roots",
+        "artist": "Sepultura",
+        "mediatype": "cd"
+    },
+    {
+        "album": "III: Angst",
+        "artist": "Shining",
+        "mediatype": "cd"
+    },
+    {
+        "album": "IV: The Eerie Cold",
+        "artist": "Shining",
+        "mediatype": "cd"
+    },
+    {
+        "album": "IX - Everyone, Everything, Everywhere, Ends",
+        "artist": "Shining",
+        "mediatype": "cd"
+    },
+    {
+        "album": "VI - Klagopsalmer",
+        "artist": "Shining",
+        "mediatype": "cd"
+    },
+    {
+        "album": "VII: Född Förlorare",
+        "artist": "Shining",
+        "mediatype": "cd"
+    },
+    {
+        "album": "X: Varg Utan Flock",
+        "artist": "Shining",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Greater Than",
+        "artist": "Shvapes",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Suizide Tendenzen",
+        "artist": "Sicc",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Aggro Berlin",
+        "artist": "Sido",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Das Goldene Album",
+        "artist": "Sido",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ich und keine Maske",
+        "artist": "Sido",
+        "mediatype": "cd"
+    },
+    {
+        "album": "MTV Unplugged - Live aus'm MV",
+        "artist": "Sido",
+        "mediatype": "cd"
+    },
+    {
+        "album": "30-11-80",
+        "artist": "Sido",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Eisenwinter",
+        "artist": "Siegfried",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Graveward",
+        "artist": "Sigh",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Heir to Despair",
+        "artist": "Sigh",
+        "mediatype": "cd"
+    },
+    {
+        "album": "In Somniphobia",
+        "artist": "Sigh",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Death Of A Dead Day",
+        "artist": "SikTh",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Opacities",
+        "artist": "SikTh",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Stigmata",
+        "artist": "Skitsystem",
+        "mediatype": "cd"
+    },
+    {
+        "album": "A Piece for Mind & Mirror",
+        "artist": "Skuggsjá",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Kurbads",
+        "artist": "Skyforger",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Iowa",
+        "artist": "Slipknot",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Slipknot",
+        "artist": "Slipknot",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Neva Left",
+        "artist": "Snoop Dogg",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Gebrüder Grimm",
+        "artist": "Snowgoons",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Kraftwerk",
+        "artist": "Snowgoons",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Terroristen Volk",
+        "artist": "Snowgoons",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Black Snow II",
+        "artist": "Snowgoons",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Genesis XIX",
+        "artist": "Sodom",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Verkligheten",
+        "artist": "Soilwork",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Berdreyminn",
+        "artist": "Sólstafir",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Reckoning Night",
+        "artist": "Sonata Arctica",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Murray Street",
+        "artist": "Sonic Youth",
+        "mediatype": "cd"
+    },
+    {
+        "album": "North",
+        "artist": "Sorcier des Glaces",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Sorguinazia",
+        "artist": "Sorguinazia",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Archangel",
+        "artist": "Soulfly",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Conquer",
+        "artist": "Soulfly",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ritual",
+        "artist": "Soulfly",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Badmotorfinger",
+        "artist": "Soundgarden",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Break the Cycle",
+        "artist": "Staind",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Dwelling Lifeless",
+        "artist": "Sterbend",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Dømt at have sit liv forbrudt",
+        "artist": "Stillhet",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Gjemt I Skyggene",
+        "artist": "Stillhet",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Storm Corrosion",
+        "artist": "Storm Corrosion",
+        "mediatype": "cd"
+    },
+    {
+        "album": "At the Gates of Utopia",
+        "artist": "Stormlord",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Hesperia",
+        "artist": "Stormlord",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Northern Rage",
+        "artist": "Stormwarrior",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Stronger Than Heaven",
+        "artist": "Stormwitch",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Demo 2007",
+        "artist": "Sturmgeist",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Schattenlieder",
+        "artist": "Sturmpercht",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Old Mornings Dawn",
+        "artist": "Summoning",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Moonflowers",
+        "artist": "Swallow the Sun",
+        "mediatype": "cd"
+    },
+    {
+        "album": "מרגיש אחר",
+        "artist": "סינרגיה",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Toxicity",
+        "artist": "System of a Down",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Magic Kaito 1412 Original Soundtrack",
+        "artist": "Taku Iwasaki",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Something Else",
+        "artist": "Tech N9ne",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ancient Call",
+        "artist": "Tengger Cavalry",
+        "mediatype": "cd"
+    },
+    {
+        "album": "One",
+        "artist": "Tesseract",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Legacy",
+        "artist": "Testament",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Lullabies For The Dormant Mind",
+        "artist": "The Agonist",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Orphans",
+        "artist": "The Agonist",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Prisoners",
+        "artist": "The Agonist",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Dissimulate",
+        "artist": "The Berzerker",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Geist",
+        "artist": "The Browning",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Dig Your Own Hole",
+        "artist": "The Chemical Brothers",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Good Company",
+        "artist": "The Dead South",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Illusion & Doubt",
+        "artist": "The Dead South",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Sugar& Joy",
+        "artist": "The Dead South",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Saga",
+        "artist": "The Flight Of Sleipnir",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Mother Armageddon, Healing Apocalypse",
+        "artist": "The Georgian Skulls",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Gereg",
+        "artist": "The Hu",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Aeolian",
+        "artist": "The Ocean",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Smash",
+        "artist": "The Offspring",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Splinter",
+        "artist": "The Offspring",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Always Outnumbered Never Outgunned",
+        "artist": "The Prodigy",
+        "mediatype": "cd"
+    },
+    {
+        "album": "No Tourists",
+        "artist": "The Prodigy",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Day is my Enemy",
+        "artist": "The Prodigy",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Invaders Must Die",
+        "artist": "The Prodigy",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Foulest Semen of a Sheltered Elite",
+        "artist": "The Ruins of Beverast",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Rain Upon the Impure",
+        "artist": "The Ruins of Beverast",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Thule Grimoires",
+        "artist": "The Ruins of Beverast",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Cyr",
+        "artist": "The Smashing Pumpkins",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Age Of Winters",
+        "artist": "The Sword",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Urban Hymns",
+        "artist": "The Verve",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Lemuria",
+        "artist": "Therion",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Leviathan",
+        "artist": "Therion",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Sirius B",
+        "artist": "Therion",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Sitra Ahra",
+        "artist": "Therion",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Critical Mass",
+        "artist": "Threshold",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Legends of the Shires",
+        "artist": "Threshold",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Fallen Angel's Dominion",
+        "artist": "Thulcandra",
+        "mediatype": "cd"
+    },
+    {
+        "album": "De ödeslösa",
+        "artist": "Thyrfing",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Clouds",
+        "artist": "Tiamat",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Astral Sleep",
+        "artist": "Tiamat",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Wildhoney",
+        "artist": "Tiamat",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Apocalypse in your Heart",
+        "artist": "Totalselfhatred",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Solitude",
+        "artist": "Totalselfhatred",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Totalselfhatred",
+        "artist": "Totalselfhatred",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Transplants",
+        "artist": "Transplants",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Down Below",
+        "artist": "Tribulation",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Trio N O X Plays Moonflowers",
+        "artist": "Trio N O X",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ascendancy",
+        "artist": "Trivium",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Shogun",
+        "artist": "Trivium",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Demonic Possession",
+        "artist": "Tsjuder",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Firestorm",
+        "artist": "Tvangeste",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Valkyrja",
+        "artist": "Týr",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Cult of a Dying Sun",
+        "artist": "Uada",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Destroy all Copies",
+        "artist": "Ufo361",
+        "mediatype": "cd"
+    },
+    {
+        "album": "VVS",
+        "artist": "Ufo361",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Bergtatt – Et eeventyr i 5 capitler",
+        "artist": "Ulver",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Assassination of Julius Caesar",
+        "artist": "Ulver",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Abyss",
+        "artist": "Unleash The Archers",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The Constellatory Practice",
+        "artist": "Urfaust",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Magic And Wyrmfire",
+        "artist": "Valar",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Skogslandskap",
+        "artist": "Váli",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Grausammler",
+        "artist": "Vargnatt",
+        "mediatype": "cd"
+    },
+    {
+        "album": "In Ruin & Despair / To the Lord Our Lives",
+        "artist": "Various Artists",
+        "mediatype": "cd"
+    },
+    {
+        "album": "OTHERWORLD: A Tribute to Silent Hill",
+        "artist": "Various Artists",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Pokémon Sun & Moon Super Music Complete",
+        "artist": "Various Artists",
+        "mediatype": "cd"
+    },
+    {
+        "album": "SUCCESSOR: Final Fantasy VIII Remixed",
+        "artist": "Various Artists",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Weihnachten im Untergrund 2",
+        "artist": "Various Artists",
+        "mediatype": "cd"
+    },
+    {
+        "album": "At War with Satan",
+        "artist": "Venom",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Nachtfülle",
+        "artist": "Vinterriket",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Retrospektive",
+        "artist": "Vinterriket",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Naturbål",
+        "artist": "Vintersorg",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Till Fjälls",
+        "artist": "Vintersorg",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Orkan",
+        "artist": "Vintersorg",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Lifehunger",
+        "artist": "Vreid",
+        "mediatype": "cd"
+    },
+    {
+        "album": "W.A.S.P.",
+        "artist": "W.A.S.P.",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Kvitravn",
+        "artist": "Wardruna",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Runaljod - Yggdrasil",
+        "artist": "Wardruna",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Burning the Witches",
+        "artist": "Warlock",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Goldkinder",
+        "artist": "We Butter The Bread With Butter",
+        "mediatype": "cd"
+    },
+    {
+        "album": "De doden hebben het goed III",
+        "artist": "Wiegedood",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Die Asche Eines Lebens",
+        "artist": "Wigrid",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Collision Of The Worlds",
+        "artist": "Windbruch",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Arntor",
+        "artist": "Windir",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Arroganz",
+        "artist": "Wintermoon",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Time I",
+        "artist": "Wintersun",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Bloody Tales Of Disgraced Lands",
+        "artist": "Wolfchant",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Glory for Centuries / Cult of the Black Pentagram / Thus Spake Zaratustra",
+        "artist": "Xantotol",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Telepathic with the Deceased",
+        "artist": "Xasthur",
+        "mediatype": "cd"
+    },
+    {
+        "album": "To Violate the Oblivious",
+        "artist": "Xasthur",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Xasthur",
+        "artist": "Xasthur",
+        "mediatype": "cd"
+    },
+    {
+        "album": "?",
+        "artist": "XXXTentacion",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Fragile",
+        "artist": "Yes",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Gott ist tot",
+        "artist": "Zombiez",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Hellbreaker",
+        "artist": "Motorjesus",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Scars of the Crucifix",
+        "artist": "Deicide",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Hammer of Dawn",
+        "artist": "Hammerfall",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Le Roi Est Mort, Vive Le Roi!",
+        "artist": "Enigma",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Alles war schön und nichts tat weh",
+        "artist": "casper",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Discoveries",
+        "artist": "amies",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Those Once Loyal",
+        "artist": "Bolt Thrower",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Shine On",
+        "artist": "CHANCE デラソウル",
+        "mediatype": "digital"
+    },
+    {
+        "album": "L8 NITE TV",
+        "artist": "Crystal Cola",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Palm Citiy",
+        "artist": "超高 Titan",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Dagothwave",
+        "artist": "Dagoth Ur",
+        "mediatype": "digital"
+    },
+    {
+        "album": "memory tape",
+        "artist": "Desired",
+        "mediatype": "digital"
+    },
+    {
+        "album": "nineteen",
+        "artist": "Desired",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Sweetest Dream",
+        "artist": "Desired",
+        "mediatype": "digital"
+    },
+    {
+        "album": "PLASTIC WHATEVER",
+        "artist": "Desired",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Timeless",
+        "artist": "Desired",
+        "mediatype": "digital"
+    },
+    {
+        "album": "atlantic trench",
+        "artist": "eternal judge",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Renaissance X",
+        "artist": "Flammy",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Im Siel",
+        "artist": "Giant Hedgehog",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Vita",
+        "artist": "회사AUTO",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Shroomeez",
+        "artist": "Infected Mushroom",
+        "mediatype": "digital"
+    },
+    {
+        "album": "解放感",
+        "artist": "仮想夢プラザ",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Butterflies",
+        "artist": "Loafy Building",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Massa",
+        "artist": "l'Outlander",
+        "mediatype": "digital"
+    },
+    {
+        "album": "SAILORWAVE III",
+        "artist": "MACROSS 82-99",
+        "mediatype": "digital"
+    },
+    {
+        "album": "街で夜を過ごす",
+        "artist": "Monodrone",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Fragile",
+        "artist": "Mother Augusta",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Timescapes - Longer Nights",
+        "artist": "Prithvi",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Give Me a Razón",
+        "artist": "PΣRMANΣNT//ZΣIMP",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Q-Rabbit 2021 FutureFunk works",
+        "artist": "Q-Rabbit",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Sunday Morning",
+        "artist": "sinnr",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Retro Tarot",
+        "artist": "Starfaux",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Drinks",
+        "artist": "Tape Dispenser",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Crown Feral",
+        "artist": "Trap Them",
+        "mediatype": "digital"
+    },
+    {
+        "album": "12 A.M Study Session",
+        "artist": "Various Artists",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Heaven That Dwells Within",
+        "artist": "Wormwitch",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Leisure Suit Larry - Wet Dreams Dry Twice",
+        "artist": "Tilo Alpermann",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Leisure Suit Larry: Wet Dreams Don't Dry",
+        "artist": "CrazyBunch & Assemble Entertainment",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Ego Trip",
+        "artist": "Papa Roach",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Fractured",
+        "artist": "Lunatic Soul",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Half-Life Soundtrack",
+        "artist": "Kelly Bailey",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Age of Empires II Definitive Edition",
+        "artist": "Microsoft Game Studios",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Rashomon",
+        "artist": "Ibaraki",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Twelve Carat Toothache",
+        "artist": "Post Malone",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Rakshak",
+        "artist": "Bloodywood",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Insanidade Ignota",
+        "artist": "F1D31",
+        "mediatype": "digital"
+    },
+    {
+        "album": "The Dread March Of Solemn Gods",
+        "artist": "Ninkharsag",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Le dernier adieu",
+        "artist": "Nordicwinter",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Mystic Circle",
+        "artist": "Mystic Circle",
+        "mediatype": "cd"
+    },
+    {
+        "album": "...And I Return to Nothingness",
+        "artist": "Lorna Shore",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Immortal",
+        "artist": "Lorna Shore",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Ritual Hymns",
+        "artist": "Worm Shepherd",
+        "mediatype": "cd"
+    },
+    {
+        "album": "The First Sound of the Future Past",
+        "artist": "Astrophysics",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Necrolatry",
+        "artist": "Darker by Design",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Schistostega",
+        "artist": "Självmord",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Soaked in the Sands",
+        "artist": "Spire of Lazarus",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Tales of Othertime",
+        "artist": "Stormkeep",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Silence to Violence",
+        "artist": "Thanatotic Desire",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Deutschrap Brandneu",
+        "artist": "Farid Bang & Capital Bra",
+        "mediatype": "cd"
+    },
+    {
+        "album": "Bleed the Future",
+        "artist": "Archspire",
+        "mediatype": "digital"
+    },
+    {
+        "album": "DEATH, DESPAIR & DISCO",
+        "artist": "Astrophysics",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Blutsabbath",
+        "artist": "Belphegor",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Rethink",
+        "artist": "Current Value",
+        "mediatype": "digital"
+    },
+    {
+        "album": "痛みの永遠",
+        "artist": "Macroblank",
+        "mediatype": "digital"
+    },
+    {
+        "album": "夜韻 Night Tempo",
+        "artist": "Night Tempo",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Ritual",
+        "artist": "Nytt Land",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Loss",
+        "artist": "Osiah",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Delictum",
+        "artist": "Siebenbürgen",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Dark Souls",
+        "artist": "Spire of Lazarus",
+        "mediatype": "digital"
+    },
+    {
+        "album": "His Majesty at the Swamp",
+        "artist": "Varathron",
+        "mediatype": "digital"
+    },
+    {
+        "album": "Noire",
+        "artist": "VNV Nation",
+        "mediatype": "digital"
+    }
+]
