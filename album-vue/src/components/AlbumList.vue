@@ -40,7 +40,7 @@ export default {
       AlbumStats
     },
     setup() {
-      const albumStore = useAlbumStore().albums
+      const albumStore = useAlbumStore()
       return {
         albumStore
       }
@@ -56,7 +56,7 @@ export default {
         mediatype: ''
       },
       filter: '',
-      albums: this.albumStore
+      albums: this.albumStore['albums']
     }
   },
   methods: {
@@ -70,7 +70,7 @@ export default {
       this.currentSort = sortKey;
     },
     addAlbum(newAlbum) {
-      this.albumStore.push(newAlbum)
+      this.albumStore.addAlbumToDB(newAlbum)
     },
     selectRow(i){
       if(i == this.selectedRow) {
