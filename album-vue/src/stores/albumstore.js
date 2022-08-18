@@ -10,6 +10,7 @@ export const useAlbumStore = defineStore('AlbumStore', {
             //     method: 'POST',
             //     body: 'artist='+album['artist']+'&album='+album['album']+'&mediatype='+album['mediatype']
             // }).then((res) => console.log(res.json()))
+
             console.log(album)
         }
     }
