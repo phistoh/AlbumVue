@@ -17,7 +17,8 @@
       </th>
     </thead>
     <tbody id="album-list-body">
-      <tr v-for="(album, i) in sortedAlbums" :key="i">
+      <td colspan="3" class="td-center" v-if="!this.albumStore.success">Could not connect to database...</td>
+      <tr v-else v-for="(album, i) in sortedAlbums" :key="i">
         <!-- <tr v-for="(album, i) in sortedAlbums" :key="i" @click="selectRow(i)" :class="this.selectedRow === i ? 'selected' : ''"> -->
         <td>{{ album.artist }}</td>
         <td>{{ album.album }}</td>

@@ -44,7 +44,7 @@ app.get("/api/getalbums", (req, res, next) => {
     var params = []
     db.all(sql, params, (err, rows) => {
         if (err) {
-          res.status(400).json({"error":err.message});
+          res.status(400).json({"message":err.message});
           return;
         }
         res.json({
@@ -59,7 +59,7 @@ app.get("/api/getalbumsbyartist/:artist/", (req, res, next) => {
     var params = [req.params.artist]
     db.all(sql, params, (err, rows) => {
         if (err) {
-          res.status(400).json({"error":err.message});
+          res.status(400).json({"message":err.message});
           return;
         }
         res.json({
@@ -74,7 +74,7 @@ app.get("/api/getalbumsbyname/:album/", (req, res, next) => {
     var params = [req.params.album]
     db.all(sql, params, (err, rows) => {
         if (err) {
-          res.status(400).json({"error":err.message});
+          res.status(400).json({"message":err.message});
           return;
         }
         res.json({
@@ -89,7 +89,7 @@ app.get("/api/getalbum/:artist/:album", (req, res, next) => {
     var params = [req.params.artist, req.params.album]
     db.get(sql, params, (err, row) => {
         if (err) {
-          res.status(400).json({"error":err.message});
+          res.status(400).json({"message":err.message});
           return;
         }
         res.json({
@@ -111,7 +111,7 @@ app.post("/api/addalbum/", (req, res, next) => {
         errors.push("No mediatype specified");
     }
     if (errors.length){
-        res.status(400).json({"error":errors.join(",")});
+        res.status(400).json({"message":errors.join(",")});
         return;
     }
     var data = {
@@ -123,7 +123,7 @@ app.post("/api/addalbum/", (req, res, next) => {
     var params = [data.artist, data.album, data.mediatype]
     db.run(sql, params, function (err, result) {
         if (err){
-            res.status(400).json({"error": err.message})
+            res.status(400).json({"message": err.message})
             return;
         }
         res.json({
@@ -139,7 +139,7 @@ app.post("/api/addalbum/", (req, res, next) => {
 //     var params = [req.params.artist, req.params.album, req.params.mediatype]
 //     db.run(sql, params, function (err, result) {
 //             if (err){
-//                 res.status(400).json({"error": res.message})
+//                 res.status(400).json({"message": res.message})
 //                 return;
 //             }
 //             res.json({"message":"deleted", changes: this.changes})

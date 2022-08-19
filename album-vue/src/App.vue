@@ -39,7 +39,15 @@ export default {
     this.isLoaded = false
     await fetch('http://localhost:8000/api/getalbums')
       .then((res) => res.json())
-      .then((data) => this.albumStore.albums = data['data'])
+      .then((data) => {
+        if(data['message'] == 'success') {
+          this.albumStore.albums = data['data']
+          this.albumStore.success = true
+        } else {
+          this.albumStore.albums = []
+          this.albumStore.success = false
+        }
+      })
       .catch((err) => console.log(err.message))
     this.isLoaded = true
   }
