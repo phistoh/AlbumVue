@@ -97,7 +97,6 @@ export default {
     albums: function () {return this.albumStore['albums']},
     sortedAlbums: function () {
       // [...] to copy the array before sorting
-      // return [...this.albums].sort((a, b) => {
       return [...this.albums].sort((a, b) => {
         let modifier = 1;
         if (!this.sortAscending) modifier = -1;
