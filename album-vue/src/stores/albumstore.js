@@ -2,7 +2,8 @@ import { defineStore } from 'pinia'
 
 export const useAlbumStore = defineStore('AlbumStore', {
     state: () => ({
-        albums: []
+        albums: [],
+        success: Boolean
     }),
     actions: {
         addAlbumToDB(album){
