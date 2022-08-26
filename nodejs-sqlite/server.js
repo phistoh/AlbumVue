@@ -1,11 +1,14 @@
 // Create express app
 var express = require("express")
+var cors = require('cors')
 var app = express()
 var db = require("./database.js")
 
 var bodyParser = require("body-parser");
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
+
+app.use(cors())
 
 // Add headers before the routes are defined
 app.use(function (req, res, next) {
@@ -21,7 +24,7 @@ app.use(function (req, res, next) {
 
     // Set to true if you need the website to include cookies in the requests sent
     // to the API (e.g. in case you use sessions)
-    res.setHeader('Access-Control-Allow-Credentials', true);
+    // res.setHeader('Access-Control-Allow-Credentials', true);
 
     // Pass to next layer of middleware
     next();
